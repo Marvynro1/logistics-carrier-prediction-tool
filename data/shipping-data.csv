@@ -1,0 +1,1001 @@
+OrderID,Client_Name,Destination_Country,Shipment_Type,Weight_lbs,Length_in,Width_in,Height_in,Carrier_Service
+ORD-0001,CanuckIndustries,Canada,Pallet,431,31,28,49,ABF Freight LTL
+ORD-0002,MexiSteel,Mexico,Crate,1269,61,21,24,SAIA LTL
+ORD-0003,IndiaSteelworks,India,Box,41,21,19,10,UPS Express Saver
+ORD-0004,UKConnect,United Kingdom,Pallet,521,41,31,30,DHL Worldwide Express
+ORD-0005,BrazilliaMachinery,Brazil,Crate,973,43,45,45,FedEx International Economy Freight
+ORD-0006,MonterreyMotors,Mexico,Crate,785,69,24,48,FedEx Priority Freight LTL
+ORD-0007,OhioManufacturing,USA,Box,42,26,13,11,FedEx Ground
+ORD-0008,GlobalParts,Germany,Crate,450,22,25,43,DHL Worldwide Express
+ORD-0009,SoCalLogistics,USA,Box,10,25,16,16,FedEx Ground
+ORD-0010,FreightForwarderUS,USA,Crate,981,55,26,55,SAIA LTL
+ORD-0011,EuroValve,France,Box,9,18,17,14,FedEx International Priority
+ORD-0012,UKConnect,United Kingdom,Box,38,20,13,13,DHL Worldwide Express
+ORD-0013,AussiePipes,Australia,Box,53,30,13,11,UPS Express Saver
+ORD-0014,AlbertaOil,Canada,Box,1,28,15,10,UPS Express Saver
+ORD-0015,ChinaPumps,China,Box,79,30,19,17,FedEx International Economy
+ORD-0016,QuebecConstruction,Canada,Crate,1248,68,26,46,ABF Freight LTL
+ORD-0017,TokyoPrecision,Japan,Crate,927,65,30,22,FedEx International Priority Freight
+ORD-0018,FreightForwarderUS,USA,Box,112,23,17,15,UPS Ground
+ORD-0019,EmiratesFabrication,UAE,Pallet,327,47,31,43,FedEx International Priority Freight
+ORD-0020,NorskDrilling,Norway,Box,100,20,8,13,DHL Worldwide Express
+ORD-0021,GlobalParts,Germany,Pallet,93,42,27,33,FedEx International Priority Freight
+ORD-0022,OhioManufacturing,USA,Crate,829,48,42,12,FedEx Economy Freight LTL
+ORD-0023,TokyoPrecision,Japan,Box,115,20,12,19,FedEx International Priority
+ORD-0024,TechCorp,USA,Box,62,26,16,12,FedEx Priority Overnight
+ORD-0025,General Industrial,Saudi Arabia,Crate,835,33,39,12,FedEx International Economy Freight
+ORD-0026,MonterreyMotors,Mexico,Crate,964,28,29,59,FedEx Priority Freight LTL
+ORD-0027,EmiratesFabrication,UAE,Box,109,24,19,18,DHL Worldwide Express
+ORD-0028,AlbertaOil,Canada,Pallet,519,30,35,47,SAIA LTL
+ORD-0029,QuebecConstruction,Canada,Box,69,32,15,18,FedEx International Economy
+ORD-0030,CanuckIndustries,Canada,Crate,1051,46,26,38,ABF Freight LTL
+ORD-0031,GlobalParts,Germany,Box,98,28,9,11,DHL Worldwide Express
+ORD-0032,AussiePipes,Australia,Crate,314,35,42,43,FedEx International Economy Freight
+ORD-0033,MexiSteel,Mexico,Box,133,26,17,11,FedEx International Economy
+ORD-0034,SoCalLogistics,USA,Pallet,359,48,25,32,FedEx Priority Freight LTL
+ORD-0035,IndiaSteelworks,India,Box,8,30,19,17,UPS Express Saver
+ORD-0036,EuroValve,France,Pallet,448,34,32,44,DHL Worldwide Express
+ORD-0037,BrazilliaMachinery,Brazil,Crate,856,66,24,53,FedEx International Economy Freight
+ORD-0038,ChinaPumps,China,Box,76,21,17,12,FedEx International Economy
+ORD-0039,UKConnect,United Kingdom,Box,54,30,19,13,DHL Worldwide Express
+ORD-0040,TokyoPrecision,Japan,Box,55,27,11,21,FedEx International Priority
+ORD-0041,MonterreyMotors,Mexico,Pallet,119,37,34,44,FedEx Priority Freight LTL
+ORD-0042,General Industrial,Saudi Arabia,Box,128,15,12,15,FedEx International Priority
+ORD-0043,TechCorp,USA,Box,41,31,10,13,FedEx Priority Overnight
+ORD-0044,CanuckIndustries,Canada,Pallet,423,28,24,50,ABF Freight LTL
+ORD-0045,AlbertaOil,Canada,Box,96,22,17,18,UPS Express Saver
+ORD-0046,FreightForwarderUS,USA,Crate,1184,39,15,57,SAIA LTL
+ORD-0047,OhioManufacturing,USA,Crate,564,36,20,53,FedEx Economy Freight LTL
+ORD-0048,QuebecConstruction,Canada,Box,123,34,16,16,FedEx International Economy
+ORD-0049,NorskDrilling,Norway,Crate,1268,69,21,29,FedEx International Priority Freight
+ORD-0050,EmiratesFabrication,UAE,Box,121,29,19,23,DHL Worldwide Express
+ORD-0051,GlobalParts,Germany,Box,139,15,10,10,DHL Worldwide Express
+ORD-0052,AussiePipes,Australia,Box,131,23,8,8,UPS Express Saver
+ORD-0053,SoCalLogistics,USA,Pallet,533,37,32,38,FedEx Priority Freight LTL
+ORD-0054,MexiSteel,Mexico,Box,55,27,15,11,FedEx International Economy
+ORD-0055,IndiaSteelworks,India,Pallet,547,43,30,47,FedEx International Economy Freight
+ORD-0056,AussiePipes,Australia,Pallet,372,39,29,35,FedEx International Economy Freight
+ORD-0057,ChinaPumps,China,Pallet,461,48,27,33,FedEx International Economy Freight
+ORD-0058,AlbertaOil,Canada,Pallet,305,39,26,45,SAIA LTL
+ORD-0059,General Industrial,Saudi Arabia,Box,56,22,9,18,FedEx International Priority
+ORD-0060,BrazilliaMachinery,Brazil,Box,123,26,17,19,FedEx International Economy
+ORD-0061,OhioManufacturing,USA,Box,90,14,14,14,FedEx Ground
+ORD-0062,UKConnect,United Kingdom,Pallet,326,38,36,37,DHL Worldwide Express
+ORD-0063,TechCorp,USA,Crate,719,53,19,53,FedEx Priority Freight LTL
+ORD-0064,EuroValve,France,Box,24,29,11,8,FedEx International Priority
+ORD-0065,QuebecConstruction,Canada,Box,123,28,9,16,FedEx International Economy
+ORD-0066,MonterreyMotors,Mexico,Crate,663,40,40,51,FedEx Priority Freight LTL
+ORD-0067,EmiratesFabrication,UAE,Crate,1121,60,25,32,FedEx International Priority Freight
+ORD-0068,TokyoPrecision,Japan,Crate,613,49,27,51,FedEx International Priority Freight
+ORD-0069,CanuckIndustries,Canada,Crate,86,67,29,39,ABF Freight LTL
+ORD-0070,FreightForwarderUS,USA,Pallet,480,31,34,32,SAIA LTL
+ORD-0071,GlobalParts,Germany,Crate,725,50,45,21,FedEx International Priority Freight
+ORD-0072,MexiSteel,Mexico,Box,122,18,17,13,FedEx International Economy
+ORD-0073,SoCalLogistics,USA,Box,35,32,15,10,FedEx Ground
+ORD-0074,NorskDrilling,Norway,Box,119,17,16,14,DHL Worldwide Express
+ORD-0075,IndiaSteelworks,India,Pallet,173,38,28,49,FedEx International Economy Freight
+ORD-0076,NorskDrilling,Norway,Pallet,193,37,36,25,DHL Worldwide Express
+ORD-0077,AussiePipes,Australia,Box,134,14,10,13,UPS Express Saver
+ORD-0078,FreightForwarderUS,USA,Box,111,32,12,14,UPS Ground
+ORD-0079,QuebecConstruction,Canada,Box,8,30,12,18,FedEx International Economy
+ORD-0080,MonterreyMotors,Mexico,Box,138,15,15,11,FedEx International Priority
+ORD-0081,CanuckIndustries,Canada,Box,118,29,18,22,UPS Express Saver
+ORD-0082,BrazilliaMachinery,Brazil,Pallet,181,32,31,35,FedEx International Economy Freight
+ORD-0083,SoCalLogistics,USA,Box,122,17,13,22,FedEx Ground
+ORD-0084,OhioManufacturing,USA,Pallet,455,27,29,48,FedEx Economy Freight LTL
+ORD-0085,GlobalParts,Germany,Crate,462,35,28,40,DHL Worldwide Express
+ORD-0086,AlbertaOil,Canada,Box,141,31,16,14,UPS Express Saver
+ORD-0087,EuroValve,France,Box,93,30,13,11,FedEx International Priority
+ORD-0088,IndiaSteelworks,India,Pallet,146,28,34,51,FedEx International Economy Freight
+ORD-0089,EmiratesFabrication,UAE,Pallet,232,31,29,45,FedEx International Priority Freight
+ORD-0090,ChinaPumps,China,Pallet,326,38,32,38,FedEx International Economy Freight
+ORD-0091,UKConnect,United Kingdom,Box,134,22,11,10,DHL Worldwide Express
+ORD-0092,TokyoPrecision,Japan,Box,102,30,10,21,FedEx International Priority
+ORD-0093,TechCorp,USA,Crate,979,66,35,42,FedEx Priority Freight LTL
+ORD-0094,General Industrial,Saudi Arabia,Box,148,32,15,15,FedEx International Priority
+ORD-0095,MexiSteel,Mexico,Crate,1295,49,27,45,SAIA LTL
+ORD-0096,EuroValve,France,Pallet,411,43,30,41,DHL Worldwide Express
+ORD-0097,MonterreyMotors,Mexico,Box,107,24,19,10,FedEx International Priority
+ORD-0098,AlbertaOil,Canada,Pallet,274,48,31,51,SAIA LTL
+ORD-0099,IndiaSteelworks,India,Box,24,23,12,14,UPS Express Saver
+ORD-0100,GlobalParts,Germany,Crate,1217,35,17,58,FedEx International Priority Freight
+ORD-0101,BrazilliaMachinery,Brazil,Crate,663,33,30,58,FedEx International Economy Freight
+ORD-0102,FreightForwarderUS,USA,Pallet,478,41,36,41,SAIA LTL
+ORD-0103,AussiePipes,Australia,Box,149,15,16,10,UPS Express Saver
+ORD-0104,CanuckIndustries,Canada,Crate,977,29,20,38,ABF Freight LTL
+ORD-0105,OhioManufacturing,USA,Crate,1219,30,22,46,FedEx Economy Freight LTL
+ORD-0106,General Industrial,Saudi Arabia,Box,27,14,14,12,FedEx International Priority
+ORD-0107,NorskDrilling,Norway,Crate,546,47,15,17,DHL Worldwide Express
+ORD-0108,MexiSteel,Mexico,Box,79,16,19,9,FedEx International Economy
+ORD-0109,QuebecConstruction,Canada,Pallet,350,34,31,39,ABF Freight LTL
+ORD-0110,TokyoPrecision,Japan,Box,71,28,11,18,FedEx International Priority
+ORD-0111,EmiratesFabrication,UAE,Crate,947,48,22,18,FedEx International Priority Freight
+ORD-0112,SoCalLogistics,USA,Pallet,510,48,28,47,FedEx Priority Freight LTL
+ORD-0113,TechCorp,USA,Box,69,21,11,10,FedEx Priority Overnight
+ORD-0114,UKConnect,United Kingdom,Pallet,530,34,29,50,FedEx International Economy Freight
+ORD-0115,ChinaPumps,China,Crate,512,50,42,50,FedEx International Economy Freight
+ORD-0116,SoCalLogistics,USA,Crate,105,42,16,33,FedEx Priority Freight LTL
+ORD-0117,CanuckIndustries,Canada,Box,2,22,16,11,UPS Express Saver
+ORD-0118,AlbertaOil,Canada,Box,109,23,12,23,UPS Express Saver
+ORD-0119,UKConnect,United Kingdom,Crate,304,39,15,31,DHL Worldwide Express
+ORD-0120,EuroValve,France,Box,25,18,17,17,FedEx International Priority
+ORD-0121,QuebecConstruction,Canada,Box,29,24,19,15,FedEx International Economy
+ORD-0122,BrazilliaMachinery,Brazil,Box,127,15,19,20,FedEx International Economy
+ORD-0123,General Industrial,Saudi Arabia,Pallet,511,36,26,45,FedEx International Economy Freight
+ORD-0124,OhioManufacturing,USA,Pallet,528,43,30,49,FedEx Economy Freight LTL
+ORD-0125,NorskDrilling,Norway,Box,40,18,14,19,DHL Worldwide Express
+ORD-0126,FreightForwarderUS,USA,Crate,1160,25,18,36,SAIA LTL
+ORD-0127,EmiratesFabrication,UAE,Pallet,278,28,34,30,FedEx International Priority Freight
+ORD-0128,IndiaSteelworks,India,Pallet,447,26,27,47,FedEx International Economy Freight
+ORD-0129,GlobalParts,Germany,Box,11,28,15,19,DHL Worldwide Express
+ORD-0130,ChinaPumps,China,Crate,283,50,36,29,FedEx International Economy Freight
+ORD-0131,AussiePipes,Australia,Box,126,20,19,23,UPS Express Saver
+ORD-0132,TokyoPrecision,Japan,Crate,1048,45,16,35,FedEx International Priority Freight
+ORD-0133,TechCorp,USA,Crate,1166,42,16,14,FedEx Priority Freight LTL
+ORD-0134,MonterreyMotors,Mexico,Crate,1098,34,44,14,FedEx Priority Freight LTL
+ORD-0135,MexiSteel,Mexico,Pallet,432,32,24,26,SAIA LTL
+ORD-0136,General Industrial,Saudi Arabia,Pallet,326,38,36,39,FedEx International Economy Freight
+ORD-0137,OhioManufacturing,USA,Box,30,17,17,13,FedEx Ground
+ORD-0138,AussiePipes,Australia,Box,53,32,15,12,UPS Express Saver
+ORD-0139,CanuckIndustries,Canada,Crate,1029,23,31,44,ABF Freight LTL
+ORD-0140,BrazilliaMachinery,Brazil,Crate,121,63,20,44,FedEx International Economy Freight
+ORD-0141,ChinaPumps,China,Pallet,559,38,34,44,FedEx International Economy Freight
+ORD-0142,AlbertaOil,Canada,Pallet,190,46,26,37,SAIA LTL
+ORD-0143,QuebecConstruction,Canada,Box,85,15,10,13,FedEx International Economy
+ORD-0144,EuroValve,France,Crate,311,25,27,12,DHL Worldwide Express
+ORD-0145,NorskDrilling,Norway,Crate,591,24,24,35,DHL Worldwide Express
+ORD-0146,FreightForwarderUS,USA,Box,10,17,17,8,UPS Ground
+ORD-0147,UKConnect,United Kingdom,Box,30,19,10,15,DHL Worldwide Express
+ORD-0148,EmiratesFabrication,UAE,Crate,719,55,18,36,FedEx International Priority Freight
+ORD-0149,SoCalLogistics,USA,Pallet,332,25,31,46,FedEx Priority Freight LTL
+ORD-0150,GlobalParts,Germany,Pallet,274,38,30,30,DHL Worldwide Express
+ORD-0151,TokyoPrecision,Japan,Box,149,24,19,14,FedEx International Priority
+ORD-0152,IndiaSteelworks,India,Pallet,249,43,30,28,FedEx International Economy Freight
+ORD-0153,TechCorp,USA,Pallet,239,33,35,43,FedEx Priority Freight LTL
+ORD-0154,MonterreyMotors,Mexico,Box,128,29,14,13,FedEx International Priority
+ORD-0155,MexiSteel,Mexico,Crate,562,31,34,42,SAIA LTL
+ORD-0156,QuebecConstruction,Canada,Crate,359,42,16,13,ABF Freight LTL
+ORD-0157,EuroValve,France,Box,98,28,14,17,FedEx International Priority
+ORD-0158,UKConnect,United Kingdom,Box,14,34,13,22,DHL Worldwide Express
+ORD-0159,ChinaPumps,China,Box,112,19,18,17,FedEx International Economy
+ORD-0160,EmiratesFabrication,UAE,Box,127,18,17,11,DHL Worldwide Express
+ORD-0161,TokyoPrecision,Japan,Box,128,27,11,10,FedEx International Priority
+ORD-0162,OhioManufacturing,USA,Box,134,26,16,19,FedEx Ground
+ORD-0163,AussiePipes,Australia,Pallet,181,25,29,31,FedEx International Economy Freight
+ORD-0164,AlbertaOil,Canada,Pallet,538,36,36,44,SAIA LTL
+ORD-0165,BrazilliaMachinery,Brazil,Box,133,18,15,14,FedEx International Economy
+ORD-0166,TechCorp,USA,Box,30,16,17,21,FedEx Priority Overnight
+ORD-0167,CanuckIndustries,Canada,Box,81,30,19,13,UPS Express Saver
+ORD-0168,General Industrial,Saudi Arabia,Crate,663,44,38,28,FedEx International Economy Freight
+ORD-0169,NorskDrilling,Norway,Crate,1219,30,42,42,FedEx International Priority Freight
+ORD-0170,FreightForwarderUS,USA,Box,86,22,12,19,UPS Ground
+ORD-0171,IndiaSteelworks,India,Crate,977,29,48,22,FedEx International Economy Freight
+ORD-0172,MonterreyMotors,Mexico,Pallet,386,47,33,31,FedEx Priority Freight LTL
+ORD-0173,SoCalLogistics,USA,Pallet,547,48,26,29,FedEx Priority Freight LTL
+ORD-0174,MexiSteel,Mexico,Box,133,26,11,15,FedEx International Economy
+ORD-0175,GlobalParts,Germany,Box,138,20,16,8,DHL Worldwide Express
+ORD-0176,SoCalLogistics,USA,Box,104,26,17,16,FedEx Ground
+ORD-0177,EuroValve,France,Box,41,27,15,13,FedEx International Priority
+ORD-0178,GlobalParts,Germany,Crate,311,26,27,47,DHL Worldwide Express
+ORD-0179,IndiaSteelworks,India,Crate,283,27,33,37,FedEx International Economy Freight
+ORD-0180,FreightForwarderUS,USA,Crate,283,57,41,53,SAIA LTL
+ORD-0181,EmiratesFabrication,UAE,Pallet,529,28,33,40,FedEx International Priority Freight
+ORD-0182,BrazilliaMachinery,Brazil,Crate,372,20,29,28,FedEx International Economy Freight
+ORD-0183,AlbertaOil,Canada,Crate,359,21,39,12,SAIA LTL
+ORD-0184,MonterreyMotors,Mexico,Box,81,19,18,13,FedEx International Priority
+ORD-0185,TokyoPrecision,Japan,Crate,1160,26,45,17,FedEx International Priority Freight
+ORD-0186,CanuckIndustries,Canada,Box,134,31,18,22,UPS Express Saver
+ORD-0187,UKConnect,United Kingdom,Pallet,274,27,27,32,DHL Worldwide Express
+ORD-0188,AussiePipes,Australia,Pallet,411,43,36,43,FedEx International Economy Freight
+ORD-0189,TechCorp,USA,Box,141,18,18,15,FedEx Priority Overnight
+ORD-0190,QuebecConstruction,Canada,Crate,1217,66,19,53,ABF Freight LTL
+ORD-0191,ChinaPumps,China,Pallet,317,39,26,40,FedEx International Economy Freight
+ORD-0192,MexiSteel,Mexico,Pallet,510,48,34,32,SAIA LTL
+ORD-0193,NorskDrilling,Norway,Crate,1295,50,44,18,FedEx International Priority Freight
+ORD-0194,General Industrial,Saudi Arabia,Box,149,27,8,13,FedEx International Priority
+ORD-0195,OhioManufacturing,USA,Crate,1268,20,44,21,FedEx Economy Freight LTL
+ORD-0196,UKConnect,United Kingdom,Pallet,478,43,31,27,DHL Worldwide Express
+ORD-0197,ChinaPumps,China,Box,139,30,10,13,FedEx International Economy
+ORD-0198,TokyoPrecision,Japan,Crate,979,59,42,16,FedEx International Priority Freight
+ORD-0199,AlbertaOil,Canada,Pallet,519,30,26,30,SAIA LTL
+ORD-0200,BrazilliaMachinery,Brazil,Box,138,20,16,8,FedEx International Economy
+ORD-0201,MonterreyMotors,Mexico,Crate,564,68,26,39,FedEx Priority Freight LTL
+ORD-0202,SoCalLogistics,USA,Pallet,530,34,26,47,FedEx Priority Freight LTL
+ORD-0203,IndiaSteelworks,India,Box,86,22,12,19,UPS Express Saver
+ORD-0204,TechCorp,USA,Box,121,14,14,14,FedEx Priority Overnight
+ORD-0205,OhioManufacturing,USA,Crate,719,52,38,59,FedEx Economy Freight LTL
+ORD-0206,GlobalParts,Germany,Box,127,18,17,11,DHL Worldwide Express
+ORD-0207,General Industrial,Saudi Arabia,Crate,725,54,30,55,FedEx International Economy Freight
+ORD-0208,QuebecConstruction,Canada,Pallet,232,37,35,40,ABF Freight LTL
+ORD-0209,CanuckIndustries,Canada,Crate,562,39,31,54,ABF Freight LTL
+ORD-0210,AussiePipes,Australia,Pallet,235,46,27,47,FedEx International Economy Freight
+ORD-0211,MexiSteel,Mexico,Crate,829,20,16,39,SAIA LTL
+ORD-0212,NorskDrilling,Norway,Box,102,15,10,10,DHL Worldwide Express
+ORD-0213,EmiratesFabrication,UAE,Box,112,23,17,15,DHL Worldwide Express
+ORD-0214,EuroValve,France,Pallet,238,26,25,35,DHL Worldwide Express
+ORD-0215,FreightForwarderUS,USA,Pallet,559,48,26,43,SAIA LTL
+ORD-0216,General Industrial,Saudi Arabia,Box,122,18,17,13,FedEx International Priority
+ORD-0217,AussiePipes,Australia,Crate,947,60,28,30,FedEx International Economy Freight
+ORD-0218,FreightForwarderUS,USA,Box,98,28,9,11,UPS Ground
+ORD-0219,AlbertaOil,Canada,Pallet,528,47,24,25,SAIA LTL
+ORD-0220,TechCorp,USA,Pallet,533,37,32,38,FedEx Priority Freight LTL
+ORD-0221,MonterreyMotors,Mexico,Pallet,501,47,26,40,FedEx Priority Freight LTL
+ORD-0222,OhioManufacturing,USA,Crate,856,33,37,17,FedEx Economy Freight LTL
+ORD-0223,EmiratesFabrication,UAE,Pallet,305,43,30,47,FedEx International Priority Freight
+ORD-0224,BrazilliaMachinery,Brazil,Crate,977,29,19,41,FedEx International Economy Freight
+ORD-0225,TokyoPrecision,Japan,Box,131,23,8,8,FedEx International Priority
+ORD-0226,SoCalLogistics,USA,Crate,927,65,46,24,FedEx Priority Freight LTL
+ORD-0227,EuroValve,France,Pallet,432,38,29,48,DHL Worldwide Express
+ORD-0228,CanuckIndustries,Canada,Box,111,32,12,14,UPS Express Saver
+ORD-0229,NorskDrilling,Norway,Crate,304,41,29,48,DHL Worldwide Express
+ORD-0230,QuebecConstruction,Canada,Crate,1121,44,22,23,ABF Freight LTL
+ORD-0231,GlobalParts,Germany,Box,90,14,14,14,DHL Worldwide Express
+ORD-0232,ChinaPumps,China,Pallet,501,47,26,40,FedEx International Economy Freight
+ORD-0233,UKConnect,United Kingdom,Box,35,32,15,10,DHL Worldwide Express
+ORD-0234,IndiaSteelworks,India,Box,112,23,17,15,UPS Express Saver
+ORD-0235,MexiSteel,Mexico,Pallet,332,47,33,26,SAIA LTL
+ORD-0236,AlbertaOil,Canada,Crate,1098,47,44,14,SAIA LTL
+ORD-0237,QuebecConstruction,Canada,Pallet,546,41,31,43,ABF Freight LTL
+ORD-0238,GlobalParts,Germany,Crate,546,45,20,38,DHL Worldwide Express
+ORD-0239,General Industrial,Saudi Arabia,Crate,613,67,29,32,FedEx International Economy Freight
+ORD-0240,NorskDrilling,Norway,Pallet,190,46,31,34,DHL Worldwide Express
+ORD-0241,AussiePipes,Australia,Box,123,26,17,19,UPS Express Saver
+ORD-0242,SoCalLogistics,USA,Pallet,546,41,31,43,FedEx Priority Freight LTL
+ORD-0243,TokyoPrecision,Japan,Pallet,305,43,30,47,FedEx International Priority Freight
+ORD-0244,UKConnect,United Kingdom,Box,11,28,15,10,DHL Worldwide Express
+ORD-0245,ChinaPumps,China,Box,24,29,11,8,FedEx International Economy
+ORD-0246,TechCorp,USA,Box,55,27,11,21,FedEx Priority Overnight
+ORD-0247,FreightForwarderUS,USA,Pallet,455,27,29,48,SAIA LTL
+ORD-0248,CanuckIndustries,Canada,Crate,1048,45,16,35,ABF Freight LTL
+ORD-0249,EmiratesFabrication,UAE,Crate,1029,23,31,44,FedEx International Priority Freight
+ORD-0250,IndiaSteelworks,India,Crate,1248,68,26,46,FedEx International Economy Freight
+ORD-0251,EuroValve,France,Box,123,34,16,16,FedEx International Priority
+ORD-0252,MonterreyMotors,Mexico,Pallet,447,26,27,47,FedEx Priority Freight LTL
+ORD-0253,OhioManufacturing,USA,Box,69,21,11,10,FedEx Ground
+ORD-0254,BrazilliaMachinery,Brazil,Crate,86,67,29,39,FedEx International Economy Freight
+ORD-0255,MexiSteel,Mexico,Crate,835,33,39,12,SAIA LTL
+ORD-0256,SoCalLogistics,USA,Box,126,20,19,23,FedEx Ground
+ORD-0257,EuroValve,France,Box,79,16,19,9,FedEx International Priority
+ORD-0258,UKConnect,United Kingdom,Crate,1268,69,21,29,FedEx International Economy Freight
+ORD-0259,QuebecConstruction,Canada,Crate,964,28,29,59,ABF Freight LTL
+ORD-0260,General Industrial,Saudi Arabia,Pallet,372,39,29,35,FedEx International Economy Freight
+ORD-0261,AussiePipes,Australia,Box,127,15,19,20,UPS Express Saver
+ORD-0262,BrazilliaMachinery,Brazil,Box,25,18,17,17,FedEx International Economy
+ORD-0263,OhioManufacturing,USA,Crate,1166,42,16,14,FedEx Economy Freight LTL
+ORD-0264,GlobalParts,Germany,Crate,979,66,35,42,FedEx International Priority Freight
+ORD-0265,EmiratesFabrication,UAE,Pallet,332,47,33,26,FedEx International Priority Freight
+ORD-0266,IndiaSteelworks,India,Pallet,423,28,24,50,FedEx International Economy Freight
+ORD-0267,FreightForwarderUS,USA,Crate,86,67,29,39,SAIA LTL
+ORD-0268,ChinaPumps,China,Pallet,529,28,33,40,FedEx International Economy Freight
+ORD-0269,MexiSteel,Mexico,Pallet,511,36,26,45,SAIA LTL
+ORD-0270,NorskDrilling,Norway,Box,127,18,17,11,DHL Worldwide Express
+ORD-0271,CanuckIndustries,Canada,Crate,1098,34,44,14,ABF Freight LTL
+ORD-0272,TokyoPrecision,Japan,Crate,964,28,29,59,FedEx International Priority Freight
+ORD-0273,TechCorp,USA,Crate,829,20,16,39,FedEx Priority Freight LTL
+ORD-0274,AlbertaOil,Canada,Box,133,18,15,14,UPS Express Saver
+ORD-0275,MonterreyMotors,Mexico,Crate,613,49,27,51,FedEx Priority Freight LTL
+ORD-0276,ChinaPumps,China,Box,29,24,19,15,FedEx International Economy
+ORD-0277,FreightForwarderUS,USA,Box,62,26,16,12,UPS Ground
+ORD-0278,MonterreyMotors,Mexico,Pallet,590,34,32,48,FedEx Priority Freight LTL
+ORD-0279,TechCorp,USA,Box,133,26,17,11,FedEx Priority Overnight
+ORD-0280,NorskDrilling,Norway,Crate,562,31,34,42,DHL Worldwide Express
+ORD-0281,OhioManufacturing,USA,Pallet,305,39,26,45,FedEx Economy Freight LTL
+ORD-0282,EmiratesFabrication,UAE,Box,126,20,19,23,DHL Worldwide Express
+ORD-0283,AussiePipes,Australia,Crate,829,20,16,39,FedEx International Economy Freight
+ORD-0284,BrazilliaMachinery,Brazil,Pallet,461,48,27,33,FedEx International Economy Freight
+ORD-0285,CanuckIndustries,Canada,Box,123,28,9,16,UPS Express Saver
+ORD-0286,General Industrial,Saudi Arabia,Crate,979,66,35,42,FedEx International Economy Freight
+ORD-0287,IndiaSteelworks,India,Box,79,16,19,9,UPS Express Saver
+ORD-0288,AlbertaOil,Canada,Pallet,576,43,36,43,SAIA LTL
+ORD-0289,MexiSteel,Mexico,Box,104,26,17,16,FedEx International Economy
+ORD-0290,TokyoPrecision,Japan,Pallet,480,31,34,32,FedEx International Priority Freight
+ORD-0291,SoCalLogistics,USA,Pallet,576,43,36,43,FedEx Priority Freight LTL
+ORD-0292,GlobalParts,Germany,Box,41,31,10,13,DHL Worldwide Express
+ORD-0293,EuroValve,France,Pallet,590,34,32,48,FedEx International Priority Freight
+ORD-0294,UKConnect,United Kingdom,Pallet,193,37,36,25,DHL Worldwide Express
+ORD-0295,QuebecConstruction,Canada,Box,41,27,15,13,FedEx International Economy
+ORD-0296,QuebecConstruction,Canada,Pallet,432,32,24,26,ABF Freight LTL
+ORD-0297,SoCalLogistics,USA,Crate,1160,25,18,36,FedEx Priority Freight LTL
+ORD-0298,GlobalParts,Germany,Box,134,26,16,19,DHL Worldwide Express
+ORD-0299,EuroValve,France,Crate,856,33,37,17,FedEx International Priority Freight
+ORD-0300,TokyoPrecision,Japan,Box,139,30,10,13,FedEx International Priority
+ORD-0301,IndiaSteelworks,India,Box,25,18,17,17,UPS Express Saver
+ORD-0302,UKConnect,United Kingdom,Pallet,590,34,32,48,FedEx International Economy Freight
+ORD-0303,TechCorp,USA,Crate,835,33,39,12,FedEx Priority Freight LTL
+ORD-0304,FreightForwarderUS,USA,Box,38,20,13,13,UPS Ground
+ORD-0305,AussiePipes,Australia,Pallet,501,47,26,40,FedEx International Economy Freight
+ORD-0306,OhioManufacturing,USA,Crate,105,42,16,33,FedEx Economy Freight LTL
+ORD-0307,MonterreyMotors,Mexico,Box,24,29,11,8,FedEx International Priority
+ORD-0308,ChinaPumps,China,Box,96,22,17,18,FedEx International Economy
+ORD-0309,EmiratesFabrication,UAE,Box,122,18,17,13,DHL Worldwide Express
+ORD-0310,General Industrial,Saudi Arabia,Pallet,317,39,26,40,FedEx International Economy Freight
+ORD-0311,CanuckIndustries,Canada,Crate,719,53,19,53,ABF Freight LTL
+ORD-0312,NorskDrilling,Norway,Crate,663,40,40,51,FedEx International Priority Freight
+ORD-0313,AlbertaOil,Canada,Pallet,501,47,26,40,SAIA LTL
+ORD-0314,MexiSteel,Mexico,Box,115,20,12,19,FedEx International Economy
+ORD-0315,BrazilliaMachinery,Brazil,Crate,1248,68,26,46,FedEx International Economy Freight
+ORD-0316,SoCalLogistics,USA,Pallet,238,26,25,35,FedEx Priority Freight LTL
+ORD-0317,BrazilliaMachinery,Brazil,Crate,1121,44,22,23,FedEx International Economy Freight
+ORD-0318,CanuckIndustries,Canada,Box,69,21,11,10,UPS Express Saver
+ORD-0319,TokyoPrecision,Japan,Pallet,411,43,30,41,FedEx International Priority Freight
+ORD-0320,General Industrial,Saudi Arabia,Pallet,547,48,26,29,FedEx International Economy Freight
+ORD-0321,NorskDrilling,Norway,Pallet,528,43,30,49,FedEx International Priority Freight
+ORD-0322,EmiratesFabrication,UAE,Crate,564,36,20,53,FedEx International Priority Freight
+ORD-0323,OhioManufacturing,USA,Crate,977,29,19,41,FedEx Economy Freight LTL
+ORD-0324,GlobalParts,Germany,Pallet,278,28,34,30,DHL Worldwide Express
+ORD-0325,QuebecConstruction,Canada,Crate,1268,69,21,29,ABF Freight LTL
+ORD-0326,MexiSteel,Mexico,Pallet,559,48,26,43,SAIA LTL
+ORD-0327,UKConnect,United Kingdom,Box,9,18,17,14,DHL Worldwide Express
+ORD-0328,AussiePipes,Australia,Box,10,25,16,16,UPS Express Saver
+ORD-0329,ChinaPumps,China,Box,109,24,19,18,FedEx International Economy
+ORD-0330,AlbertaOil,Canada,Crate,785,69,24,48,SAIA LTL
+ORD-0331,IndiaSteelworks,India,Box,42,26,13,11,UPS Express Saver
+ORD-0332,EuroValve,France,Crate,927,65,46,24,FedEx International Priority Freight
+ORD-0333,TechCorp,USA,Box,109,24,19,18,FedEx Priority Overnight
+ORD-0334,FreightForwarderUS,USA,Box,9,18,17,14,UPS Ground
+ORD-0335,MonterreyMotors,Mexico,Crate,1217,35,17,58,FedEx Priority Freight LTL
+ORD-0336,SoCalLogistics,USA,Box,133,18,15,14,FedEx Ground
+ORD-0337,ChinaPumps,China,Box,107,24,19,10,FedEx International Economy
+ORD-0338,QuebecConstruction,Canada,Box,96,22,17,18,FedEx International Economy
+ORD-0339,EmiratesFabrication,UAE,Pallet,455,27,29,48,FedEx International Priority Freight
+ORD-0340,TechCorp,USA,Pallet,447,26,27,47,FedEx Priority Freight LTL
+ORD-0341,General Industrial,Saudi Arabia,Crate,785,69,24,48,FedEx International Economy Freight
+ORD-0342,NorskDrilling,Norway,Crate,86,67,29,39,FedEx International Priority Freight
+ORD-0343,EuroValve,France,Box,90,14,14,14,FedEx International Priority
+ORD-0344,MonterreyMotors,Mexico,Box,139,15,15,11,FedEx International Priority
+ORD-0345,AussiePipes,Australia,Pallet,576,43,36,43,FedEx International Economy Freight
+ORD-0346,SoCalLogistics,USA,Crate,86,67,29,39,FedEx Priority Freight LTL
+ORD-0347,AlbertaOil,Canada,Crate,1295,49,27,45,SAIA LTL
+ORD-0348,GlobalParts,Germany,Crate,1248,68,26,46,FedEx International Priority Freight
+ORD-0349,FreightForwarderUS,USA,Crate,105,42,16,33,SAIA LTL
+ORD-0350,BrazilliaMachinery,Brazil,Crate,1051,46,26,38,FedEx International Economy Freight
+ORD-0351,OhioManufacturing,USA,Box,127,18,17,11,FedEx Ground
+ORD-0352,CanuckIndustries,Canada,Crate,979,66,35,42,ABF Freight LTL
+ORD-0353,IndiaSteelworks,India,Pallet,519,30,26,30,FedEx International Economy Freight
+ORD-0354,MexiSteel,Mexico,Box,100,20,8,13,FedEx International Economy
+ORD-0355,TokyoPrecision,Japan,Crate,835,33,39,12,FedEx International Priority Freight
+ORD-0356,UKConnect,United Kingdom,Box,24,29,11,8,DHL Worldwide Express
+ORD-0357,IndiaSteelworks,India,Box,76,21,17,12,UPS Express Saver
+ORD-0358,UKConnect,United Kingdom,Pallet,448,34,32,44,DHL Worldwide Express
+ORD-0359,General Industrial,Saudi Arabia,Pallet,235,46,27,47,FedEx International Economy Freight
+ORD-0360,AlbertaOil,Canada,Box,41,27,15,13,UPS Express Saver
+ORD-0361,OhioManufacturing,USA,Pallet,274,27,27,32,FedEx Economy Freight LTL
+ORD-0362,MonterreyMotors,Mexico,Crate,1184,39,15,57,FedEx Priority Freight LTL
+ORD-0363,NorskDrilling,Norway,Box,41,31,10,13,DHL Worldwide Express
+ORD-0364,EuroValve,France,Pallet,278,28,34,30,DHL Worldwide Express
+ORD-0365,CanuckIndustries,Canada,Pallet,510,48,28,47,ABF Freight LTL
+ORD-0366,FreightForwarderUS,USA,Crate,613,49,27,51,SAIA LTL
+ORD-0367,SoCalLogistics,USA,Pallet,519,30,26,30,FedEx Priority Freight LTL
+ORD-0368,MexiSteel,Mexico,Crate,981,55,26,55,SAIA LTL
+ORD-0369,BrazilliaMachinery,Brazil,Box,139,15,15,11,FedEx International Economy
+ORD-0370,GlobalParts,Germany,Pallet,461,48,27,33,FedEx International Priority Freight
+ORD-0371,EmiratesFabrication,UAE,Box,123,34,16,16,DHL Worldwide Express
+ORD-0372,AussiePipes,Australia,Crate,121,63,20,44,FedEx International Economy Freight
+ORD-0373,TokyoPrecision,Japan,Pallet,327,47,31,43,FedEx International Priority Freight
+ORD-0374,QuebecConstruction,Canada,Pallet,238,26,25,35,ABF Freight LTL
+ORD-0375,ChinaPumps,China,Pallet,547,48,26,29,FedEx International Economy Freight
+ORD-0376,TechCorp,USA,Crate,121,63,20,44,FedEx Priority Freight LTL
+ORD-0377,QuebecConstruction,Canada,Box,131,23,8,8,FedEx International Economy
+ORD-0378,AlbertaOil,Canada,Pallet,559,48,26,43,SAIA LTL
+ORD-0379,MonterreyMotors,Mexico,Crate,1051,46,26,38,FedEx Priority Freight LTL
+ORD-0380,EmiratesFabrication,UAE,Pallet,359,48,25,32,FedEx International Priority Freight
+ORD-0381,FreightForwarderUS,USA,Pallet,528,43,30,49,SAIA LTL
+ORD-0382,TokyoPrecision,Japan,Box,123,28,9,16,FedEx International Priority
+ORD-0383,BrazilliaMachinery,Brazil,Crate,1295,49,27,45,FedEx International Economy Freight
+ORD-0384,SoCalLogistics,USA,Box,55,27,15,11,FedEx Ground
+ORD-0385,General Industrial,Saudi Arabia,Crate,1098,47,44,14,FedEx International Economy Freight
+ORD-0386,UKConnect,United Kingdom,Pallet,455,27,29,48,DHL Worldwide Express
+ORD-0387,OhioManufacturing,USA,Box,11,28,15,10,FedEx Ground
+ORD-0388,AussiePipes,Australia,Box,122,18,17,13,UPS Express Saver
+ORD-0389,TechCorp,USA,Crate,981,55,26,55,FedEx Priority Freight LTL
+ORD-0390,NorskDrilling,Norway,Crate,1217,35,17,58,FedEx International Priority Freight
+ORD-0391,IndiaSteelworks,India,Crate,1268,69,21,29,FedEx International Economy Freight
+ORD-0392,GlobalParts,Germany,Pallet,432,32,24,26,DHL Worldwide Express
+ORD-0393,EuroValve,France,Crate,1248,68,26,46,FedEx International Priority Freight
+ORD-0394,CanuckIndustries,Canada,Crate,314,35,42,43,ABF Freight LTL
+ORD-0395,MexiSteel,Mexico,Pallet,327,47,31,43,SAIA LTL
+ORD-0396,ChinaPumps,China,Crate,121,63,20,44,FedEx International Economy Freight
+ORD-0397,MonterreyMotors,Mexico,Pallet,232,37,35,40,FedEx Priority Freight LTL
+ORD-0398,CanuckIndustries,Canada,Box,109,24,19,18,UPS Express Saver
+ORD-0399,AussiePipes,Australia,Crate,1184,39,15,57,FedEx International Economy Freight
+ORD-0400,TechCorp,USA,Crate,1098,47,44,14,FedEx Priority Freight LTL
+ORD-0401,NorskDrilling,Norway,Box,69,21,11,10,DHL Worldwide Express
+ORD-0402,AlbertaOil,Canada,Crate,856,33,37,17,SAIA LTL
+ORD-0403,TokyoPrecision,Japan,Crate,1219,30,22,46,FedEx International Priority Freight
+ORD-0404,UKConnect,United Kingdom,Crate,283,50,36,29,DHL Worldwide Express
+ORD-0405,OhioManufacturing,USA,Pallet,590,34,32,48,FedEx Economy Freight LTL
+ORD-0406,BrazilliaMachinery,Brazil,Box,41,27,15,13,FedEx International Economy
+ORD-0407,MexiSteel,Mexico,Box,121,14,14,14,FedEx International Economy
+ORD-0408,GlobalParts,Germany,Crate,1160,25,18,36,FedEx International Priority Freight
+ORD-0409,QuebecConstruction,Canada,Crate,663,40,40,51,ABF Freight LTL
+ORD-0410,EmiratesFabrication,UAE,Crate,1166,42,16,14,FedEx International Priority Freight
+ORD-0411,EuroValve,France,Crate,1029,23,31,44,FedEx International Priority Freight
+ORD-0412,FreightForwarderUS,USA,Box,24,29,11,8,UPS Ground
+ORD-0413,SoCalLogistics,USA,Crate,1295,49,27,45,FedEx Priority Freight LTL
+ORD-0414,IndiaSteelworks,India,Pallet,576,43,36,43,FedEx International Economy Freight
+ORD-0415,General Industrial,Saudi Arabia,Crate,977,29,19,41,FedEx International Economy Freight
+ORD-0416,ChinaPumps,China,Pallet,249,43,30,28,FedEx International Economy Freight
+ORD-0417,OhioManufacturing,USA,Box,54,30,19,13,FedEx Ground
+ORD-0418,GlobalParts,Germany,Crate,829,20,16,39,FedEx International Priority Freight
+ORD-0419,NorskDrilling,Norway,Crate,927,65,46,24,FedEx International Priority Freight
+ORD-0420,AlbertaOil,Canada,Pallet,448,34,32,44,SAIA LTL
+ORD-0421,QuebecConstruction,Canada,Pallet,372,39,29,35,ABF Freight LTL
+ORD-0422,AussiePipes,Australia,Box,10,25,16,16,UPS Express Saver
+ORD-0423,General Industrial,Saudi Arabia,Box,133,18,15,14,FedEx International Priority
+ORD-0424,TechCorp,USA,Crate,1160,25,18,36,FedEx Priority Freight LTL
+ORD-0425,EmiratesFabrication,UAE,Crate,1248,68,26,46,FedEx International Priority Freight
+ORD-0426,MonterreyMotors,Mexico,Box,141,18,18,15,FedEx International Priority
+ORD-0427,CanuckIndustries,Canada,Crate,1166,42,16,14,ABF Freight LTL
+ORD-0428,BrazilliaMachinery,Brazil,Box,122,18,17,13,FedEx International Economy
+ORD-0429,UKConnect,United Kingdom,Box,121,29,19,23,DHL Worldwide Express
+ORD-0430,SoCalLogistics,USA,Pallet,274,27,27,32,FedEx Priority Freight LTL
+ORD-0431,FreightForwarderUS,USA,Crate,1219,30,22,46,SAIA LTL
+ORD-0432,IndiaSteelworks,India,Box,30,17,17,13,UPS Express Saver
+ORD-0433,EuroValve,France,Crate,947,48,22,18,FedEx International Priority Freight
+ORD-0434,TokyoPrecision,Japan,Box,11,28,15,10,FedEx International Priority
+ORD-0435,ChinaPumps,China,Box,2,22,16,11,FedEx International Economy
+ORD-0436,MexiSteel,Mexico,Pallet,305,39,26,45,SAIA LTL
+ORD-0437,AlbertaOil,Canada,Box,128,29,14,13,UPS Express Saver
+ORD-0438,SoCalLogistics,USA,Crate,1051,46,26,38,FedEx Priority Freight LTL
+ORD-0439,UKConnect,United Kingdom,Box,10,25,16,16,DHL Worldwide Express
+ORD-0440,TokyoPrecision,Japan,Crate,1029,23,31,44,FedEx International Priority Freight
+ORD-0441,ChinaPumps,China,Pallet,350,34,31,39,FedEx International Economy Freight
+ORD-0442,EuroValve,France,Box,27,14,14,12,FedEx International Priority
+ORD-0443,AussiePipes,Australia,Pallet,447,26,27,47,FedEx International Economy Freight
+ORD-0444,GlobalParts,Germany,Pallet,235,46,27,47,DHL Worldwide Express
+ORD-0445,MonterreyMotors,Mexico,Crate,314,35,42,43,FedEx Priority Freight LTL
+ORD-0446,QuebecConstruction,Canada,Box,134,26,16,19,FedEx International Economy
+ORD-0447,BrazilliaMachinery,Brazil,Pallet,510,48,28,47,FedEx International Economy Freight
+ORD-0448,EmiratesFabrication,UAE,Pallet,576,43,36,43,FedEx International Priority Freight
+ORD-0449,CanuckIndustries,Canada,Crate,564,36,20,53,ABF Freight LTL
+ORD-0450,FreightForwarderUS,USA,Box,128,15,12,15,UPS Ground
+ORD-0451,OhioManufacturing,USA,Pallet,239,33,35,43,FedEx Economy Freight LTL
+ORD-0452,IndiaSteelworks,India,Crate,1121,44,22,23,FedEx International Economy Freight
+ORD-0453,NorskDrilling,Norway,Pallet,461,48,27,33,FedEx International Priority Freight
+ORD-0454,General Industrial,Saudi Arabia,Pallet,119,37,34,44,FedEx International Economy Freight
+ORD-0455,MexiSteel,Mexico,Box,30,19,10,15,FedEx International Economy
+ORD-0456,TechCorp,USA,Box,131,23,8,8,FedEx Priority Overnight
+ORD-0457,MonterreyMotors,Mexico,Pallet,528,43,30,49,FedEx Priority Freight LTL
+ORD-0458,OhioManufacturing,USA,Crate,1184,39,15,57,FedEx Economy Freight LTL
+ORD-0459,FreightForwarderUS,USA,Crate,1098,47,44,14,SAIA LTL
+ORD-0460,SoCalLogistics,USA,Box,2,22,16,11,FedEx Ground
+ORD-0461,GlobalParts,Germany,Box,109,24,19,18,DHL Worldwide Express
+ORD-0462,EmiratesFabrication,UAE,Box,138,20,16,8,DHL Worldwide Express
+ORD-0463,AussiePipes,Australia,Pallet,480,31,34,32,FedEx International Economy Freight
+ORD-0464,BrazilliaMachinery,Brazil,Box,24,29,11,8,FedEx International Economy
+ORD-0465,CanuckIndustries,Canada,Box,53,30,13,11,UPS Express Saver
+ORD-0466,TokyoPrecision,Japan,Crate,1121,44,22,23,FedEx International Priority Freight
+ORD-0467,AlbertaOil,Canada,Pallet,546,41,31,43,SAIA LTL
+ORD-0468,EuroValve,France,Crate,835,33,39,12,FedEx International Priority Freight
+ORD-0469,IndiaSteelworks,India,Crate,856,33,37,17,FedEx International Economy Freight
+ORD-0470,ChinaPumps,China,Pallet,411,43,30,41,FedEx International Economy Freight
+ORD-0471,UKConnect,United Kingdom,Crate,1098,47,44,14,FedEx International Economy Freight
+ORD-0472,QuebecConstruction,Canada,Pallet,461,48,27,33,ABF Freight LTL
+ORD-0473,NorskDrilling,Norway,Crate,856,33,37,17,FedEx International Priority Freight
+ORD-0474,TechCorp,USA,Pallet,146,28,34,51,FedEx Priority Freight LTL
+ORD-0475,MexiSteel,Mexico,Pallet,530,34,29,50,SAIA LTL
+ORD-0476,General Industrial,Saudi Arabia,Box,126,20,19,23,FedEx International Priority
+ORD-0477,UKConnect,United Kingdom,Box,100,20,8,13,DHL Worldwide Express
+ORD-0478,OhioManufacturing,USA,Crate,1098,34,44,14,FedEx Economy Freight LTL
+ORD-0479,BrazilliaMachinery,Brazil,Crate,1268,69,21,29,FedEx International Economy Freight
+ORD-0480,NorskDrilling,Norway,Pallet,249,43,30,28,DHL Worldwide Express
+ORD-0481,EmiratesFabrication,UAE,Box,107,24,19,10,DHL Worldwide Express
+ORD-0482,SoCalLogistics,USA,Pallet,372,39,29,35,FedEx Priority Freight LTL
+ORD-0483,EuroValve,France,Pallet,326,38,32,38,DHL Worldwide Express
+ORD-0484,GlobalParts,Germany,Crate,105,42,16,33,FedEx International Priority Freight
+ORD-0485,AussiePipes,Australia,Crate,564,36,20,53,FedEx International Economy Freight
+ORD-0486,IndiaSteelworks,India,Pallet,538,36,36,44,FedEx International Economy Freight
+ORD-0487,TokyoPrecision,Japan,Box,127,15,19,20,FedEx International Priority
+ORD-0488,MexiSteel,Mexico,Box,139,30,10,13,FedEx International Economy
+ORD-0489,AlbertaOil,Canada,Pallet,173,38,28,49,SAIA LTL
+ORD-0490,QuebecConstruction,Canada,Box,40,18,14,19,FedEx International Economy
+ORD-0491,CanuckIndustries,Canada,Crate,1295,49,27,45,ABF Freight LTL
+ORD-0492,TechCorp,USA,Crate,725,54,30,55,FedEx Priority Freight LTL
+ORD-0493,ChinaPumps,China,Crate,1160,25,18,36,FedEx International Economy Freight
+ORD-0494,FreightForwarderUS,USA,Pallet,326,38,32,38,SAIA LTL
+ORD-0495,General Industrial,Saudi Arabia,Crate,1160,25,18,36,FedEx International Economy Freight
+ORD-0496,MonterreyMotors,Mexico,Box,56,22,9,18,FedEx International Priority
+ORD-0497,AussiePipes,Australia,Pallet,511,36,26,45,FedEx International Economy Freight
+ORD-0498,MonterreyMotors,Mexico,Crate,927,65,30,22,FedEx Priority Freight LTL
+ORD-0499,SoCalLogistics,USA,Box,29,24,19,15,FedEx Ground
+ORD-0500,General Industrial,Saudi Arabia,Crate,1217,35,17,58,FedEx International Economy Freight
+ORD-0501,UKConnect,United Kingdom,Box,122,18,17,13,DHL Worldwide Express
+ORD-0502,TechCorp,USA,Crate,314,35,42,43,FedEx Priority Freight LTL
+ORD-0503,BrazilliaMachinery,Brazil,Crate,1048,45,16,35,FedEx International Economy Freight
+ORD-0504,NorskDrilling,Norway,Pallet,478,41,36,41,DHL Worldwide Express
+ORD-0505,FreightForwarderUS,USA,Pallet,232,37,35,40,SAIA LTL
+ORD-0506,CanuckIndustries,Canada,Crate,1219,30,22,46,ABF Freight LTL
+ORD-0507,QuebecConstruction,Canada,Box,8,30,12,18,FedEx International Economy
+ORD-0508,OhioManufacturing,USA,Pallet,478,41,36,41,FedEx Economy Freight LTL
+ORD-0509,AlbertaOil,Canada,Box,30,19,10,15,UPS Express Saver
+ORD-0510,EmiratesFabrication,UAE,Pallet,235,46,27,47,FedEx International Priority Freight
+ORD-0511,IndiaSteelworks,India,Pallet,411,43,30,41,FedEx International Economy Freight
+ORD-0512,GlobalParts,Germany,Pallet,274,27,27,32,DHL Worldwide Express
+ORD-0513,MexiSteel,Mexico,Crate,1268,69,21,29,SAIA LTL
+ORD-0514,EuroValve,France,Box,76,21,17,12,FedEx International Priority
+ORD-0515,TokyoPrecision,Japan,Crate,1217,35,17,58,FedEx International Priority Freight
+ORD-0516,ChinaPumps,China,Box,9,18,17,14,FedEx International Economy
+ORD-0517,OhioManufacturing,USA,Box,139,15,15,11,FedEx Ground
+ORD-0518,BrazilliaMachinery,Brazil,Crate,1160,25,18,36,FedEx International Economy Freight
+ORD-0519,GlobalParts,Germany,Box,24,29,11,8,DHL Worldwide Express
+ORD-0520,ChinaPumps,China,Crate,927,65,46,24,FedEx International Economy Freight
+ORD-0521,AussiePipes,Australia,Pallet,559,48,26,43,FedEx International Economy Freight
+ORD-0522,CanuckIndustries,Canada,Pallet,372,39,29,35,ABF Freight LTL
+ORD-0523,NorskDrilling,Norway,Box,123,32,15,18,DHL Worldwide Express
+ORD-0524,SoCalLogistics,USA,Pallet,119,37,34,44,FedEx Priority Freight LTL
+ORD-0525,EuroValve,France,Pallet,461,48,27,33,FedEx International Priority Freight
+ORD-0526,AlbertaOil,Canada,Crate,947,48,22,18,SAIA LTL
+ORD-0527,FreightForwarderUS,USA,Pallet,590,34,32,48,SAIA LTL
+ORD-0528,UKConnect,United Kingdom,Crate,1121,44,22,23,FedEx International Economy Freight
+ORD-0529,TechCorp,USA,Crate,1160,25,18,36,FedEx Priority Freight LTL
+ORD-0530,MonterreyMotors,Mexico,Pallet,480,31,34,32,FedEx Priority Freight LTL
+ORD-0531,QuebecConstruction,Canada,Box,86,22,12,19,FedEx International Economy
+ORD-0532,MexiSteel,Mexico,Box,10,25,16,16,FedEx International Economy
+ORD-0533,EmiratesFabrication,UAE,Box,123,28,9,16,DHL Worldwide Express
+ORD-0534,IndiaSteelworks,India,Crate,1166,42,16,14,FedEx International Economy Freight
+ORD-0535,TokyoPrecision,Japan,Box,79,16,19,9,FedEx International Priority
+ORD-0536,General Industrial,Saudi Arabia,Crate,1051,46,26,38,FedEx International Economy Freight
+ORD-0537,EuroValve,France,Box,96,22,17,18,FedEx International Priority
+ORD-0538,MonterreyMotors,Mexico,Crate,1098,34,44,14,FedEx Priority Freight LTL
+ORD-0539,AlbertaOil,Canada,Box,8,30,12,18,UPS Express Saver
+ORD-0540,CanuckIndustries,Canada,Crate,1248,68,26,46,ABF Freight LTL
+ORD-0541,AussiePipes,Australia,Box,107,24,19,10,UPS Express Saver
+ORD-0542,GlobalParts,Germany,Crate,1184,39,15,57,FedEx International Priority Freight
+ORD-0543,FreightForwarderUS,USA,Crate,977,29,19,41,SAIA LTL
+ORD-0544,ChinaPumps,China,Pallet,447,26,27,47,FedEx International Economy Freight
+ORD-0545,BrazilliaMachinery,Brazil,Box,102,15,10,10,FedEx International Economy
+ORD-0546,EmiratesFabrication,UAE,Pallet,146,28,34,51,FedEx International Priority Freight
+ORD-0547,MexiSteel,Mexico,Box,35,32,15,10,FedEx International Economy
+ORD-0548,TechCorp,USA,Box,126,20,19,23,FedEx Priority Overnight
+ORD-0549,SoCalLogistics,USA,Pallet,559,48,26,43,FedEx Priority Freight LTL
+ORD-0550,OhioManufacturing,USA,Pallet,190,46,26,37,FedEx Economy Freight LTL
+ORD-0551,UKConnect,United Kingdom,Box,123,32,15,18,DHL Worldwide Express
+ORD-0552,IndiaSteelworks,India,Box,100,20,8,13,UPS Express Saver
+ORD-0553,General Industrial,Saudi Arabia,Box,81,19,18,13,FedEx International Priority
+ORD-0554,NorskDrilling,Norway,Crate,1029,23,31,44,FedEx International Priority Freight
+ORD-0555,TokyoPrecision,Japan,Pallet,274,27,27,32,FedEx International Priority Freight
+ORD-0556,QuebecConstruction,Canada,Box,138,20,16,8,FedEx International Economy
+ORD-0557,QuebecConstruction,Canada,Box,133,26,17,11,FedEx International Economy
+ORD-0558,UKConnect,United Kingdom,Crate,1295,49,27,45,FedEx International Economy Freight
+ORD-0559,BrazilliaMachinery,Brazil,Pallet,511,36,26,45,FedEx International Economy Freight
+ORD-0560,CanuckIndustries,Canada,Pallet,528,43,30,49,ABF Freight LTL
+ORD-0561,SoCalLogistics,USA,Box,41,31,10,13,FedEx Ground
+ORD-0562,GlobalParts,Germany,Box,79,16,19,9,DHL Worldwide Express
+ORD-0563,ChinaPumps,China,Box,133,18,15,14,FedEx International Economy
+ORD-0564,EuroValve,France,Crate,1166,42,16,14,FedEx International Priority Freight
+ORD-0565,AlbertaOil,Canada,Crate,1048,45,16,35,SAIA LTL
+ORD-0566,EmiratesFabrication,UAE,Crate,1219,30,22,46,FedEx International Priority Freight
+ORD-0567,NorskDrilling,Norway,Crate,947,48,22,18,FedEx International Priority Freight
+ORD-0568,OhioManufacturing,USA,Box,107,24,19,10,FedEx Ground
+ORD-0569,AussiePipes,Australia,Box,24,29,11,8,UPS Express Saver
+ORD-0570,TokyoPrecision,Japan,Crate,1295,49,27,45,FedEx International Priority Freight
+ORD-0571,FreightForwarderUS,USA,Crate,663,40,40,51,SAIA LTL
+ORD-0572,TechCorp,USA,Crate,314,35,42,43,FedEx Priority Freight LTL
+ORD-0573,General Industrial,Saudi Arabia,Box,127,15,19,20,FedEx International Priority
+ORD-0574,IndiaSteelworks,India,Crate,1184,39,15,57,FedEx International Economy Freight
+ORD-0575,MexiSteel,Mexico,Crate,1029,23,31,44,SAIA LTL
+ORD-0576,MonterreyMotors,Mexico,Pallet,576,43,36,43,FedEx Priority Freight LTL
+ORD-0577,SoCalLogistics,USA,Crate,562,31,34,42,FedEx Priority Freight LTL
+ORD-0578,EmiratesFabrication,UAE,Pallet,326,38,32,38,FedEx International Priority Freight
+ORD-0579,EuroValve,France,Crate,1217,35,17,58,FedEx International Priority Freight
+ORD-0580,NorskDrilling,Norway,Pallet,239,33,35,43,DHL Worldwide Express
+ORD-0581,MonterreyMotors,Mexico,Box,121,14,14,14,FedEx International Priority
+ORD-0582,General Industrial,Saudi Arabia,Crate,1268,69,21,29,FedEx International Economy Freight
+ORD-0583,ChinaPumps,China,Crate,979,66,35,42,FedEx International Economy Freight
+ORD-0584,OhioManufacturing,USA,Crate,283,57,41,53,FedEx Economy Freight LTL
+ORD-0585,AlbertaOil,Canada,Pallet,232,37,35,40,SAIA LTL
+ORD-0586,CanuckIndustries,Canada,Crate,829,20,16,39,ABF Freight LTL
+ORD-0587,QuebecConstruction,Canada,Box,41,27,15,13,FedEx International Economy
+ORD-0588,GlobalParts,Germany,Box,131,23,8,8,DHL Worldwide Express
+ORD-0589,UKConnect,United Kingdom,Pallet,332,47,33,26,DHL Worldwide Express
+ORD-0590,IndiaSteelworks,India,Box,30,19,10,15,UPS Express Saver
+ORD-0591,TokyoPrecision,Japan,Box,134,26,16,19,FedEx International Priority
+ORD-0592,BrazilliaMachinery,Brazil,Crate,927,65,30,22,FedEx International Economy Freight
+ORD-0593,FreightForwarderUS,USA,Box,79,16,19,9,UPS Ground
+ORD-0594,TechCorp,USA,Box,112,23,17,15,FedEx Priority Overnight
+ORD-0595,AussiePipes,Australia,Pallet,530,34,29,50,FedEx International Economy Freight
+ORD-0596,MexiSteel,Mexico,Crate,105,42,16,33,SAIA LTL
+ORD-0597,TechCorp,USA,Crate,1217,35,17,58,FedEx Priority Freight LTL
+ORD-0598,FreightForwarderUS,USA,Box,128,29,14,13,UPS Ground
+ORD-0599,QuebecConstruction,Canada,Pallet,193,37,36,25,ABF Freight LTL
+ORD-0600,NorskDrilling,Norway,Crate,1166,42,16,14,FedEx International Priority Freight
+ORD-0601,General Industrial,Saudi Arabia,Box,134,26,16,19,FedEx International Priority
+ORD-0602,MonterreyMotors,Mexico,Crate,1219,30,22,46,FedEx Priority Freight LTL
+ORD-0603,UKConnect,United Kingdom,Crate,1248,68,26,46,FedEx International Economy Freight
+ORD-0604,AussiePipes,Australia,Box,121,14,14,14,UPS Express Saver
+ORD-0605,OhioManufacturing,USA,Crate,979,66,35,42,FedEx Economy Freight LTL
+ORD-0606,CanuckIndustries,Canada,Pallet,546,41,31,43,ABF Freight LTL
+ORD-0607,AlbertaOil,Canada,Pallet,461,48,27,33,SAIA LTL
+ORD-0608,SoCalLogistics,USA,Box,79,16,19,9,FedEx Ground
+ORD-0609,GlobalParts,Germany,Box,30,19,10,15,DHL Worldwide Express
+ORD-0610,IndiaSteelworks,India,Pallet,590,34,32,48,FedEx International Economy Freight
+ORD-0611,TokyoPrecision,Japan,Crate,105,42,16,33,FedEx International Priority Freight
+ORD-0612,EuroValve,France,Box,54,30,19,13,FedEx International Priority
+ORD-0613,EmiratesFabrication,UAE,Box,141,18,18,15,DHL Worldwide Express
+ORD-0614,BrazilliaMachinery,Brazil,Crate,1219,30,22,46,FedEx International Economy Freight
+ORD-0615,ChinaPumps,China,Box,69,21,11,10,FedEx International Economy
+ORD-0616,MexiSteel,Mexico,Crate,1121,44,22,23,SAIA LTL
+ORD-0617,SoCalLogistics,USA,Pallet,448,34,32,44,FedEx Priority Freight LTL
+ORD-0618,EuroValve,France,Box,112,23,17,15,FedEx International Priority
+ORD-0619,ChinaPumps,China,Pallet,372,39,29,35,FedEx International Economy Freight
+ORD-0620,NorskDrilling,Norway,Crate,829,20,16,39,FedEx International Priority Freight
+ORD-0621,MonterreyMotors,Mexico,Crate,1268,69,21,29,FedEx Priority Freight LTL
+ORD-0622,CanuckIndustries,Canada,Crate,927,65,30,22,ABF Freight LTL
+ORD-0623,QuebecConstruction,Canada,Crate,1184,39,15,57,ABF Freight LTL
+ORD-0624,IndiaSteelworks,India,Box,41,31,10,13,UPS Express Saver
+ORD-0625,General Industrial,Saudi Arabia,Crate,283,57,41,53,FedEx International Economy Freight
+ORD-0626,OhioManufacturing,USA,Box,128,29,14,13,FedEx Ground
+ORD-0627,GlobalParts,Germany,Crate,981,55,26,55,FedEx International Priority Freight
+ORD-0628,AussiePipes,Australia,Box,133,18,15,14,UPS Express Saver
+ORD-0629,BrazilliaMachinery,Brazil,Pallet,332,47,33,26,FedEx International Economy Freight
+ORD-0630,EmiratesFabrication,UAE,Pallet,350,34,31,39,FedEx International Priority Freight
+ORD-0631,FreightForwarderUS,USA,Pallet,239,33,35,43,SAIA LTL
+ORD-0632,AlbertaOil,Canada,Crate,283,50,36,29,SAIA LTL
+ORD-0633,UKConnect,United Kingdom,Box,104,26,17,16,DHL Worldwide Express
+ORD-0634,TokyoPrecision,Japan,Pallet,326,38,32,38,FedEx International Priority Freight
+ORD-0635,TechCorp,USA,Crate,1121,44,22,23,FedEx Priority Freight LTL
+ORD-0636,MexiSteel,Mexico,Box,8,30,12,18,FedEx International Economy
+ORD-0637,GlobalParts,Germany,Pallet,510,48,28,47,FedEx International Priority Freight
+ORD-0638,OhioManufacturing,USA,Crate,1295,49,27,45,FedEx Economy Freight LTL
+ORD-0639,QuebecConstruction,Canada,Box,107,24,19,10,FedEx International Economy
+ORD-0640,TokyoPrecision,Japan,Box,126,20,19,23,FedEx International Priority
+ORD-0641,General Industrial,Saudi Arabia,Box,53,30,13,11,FedEx International Priority
+ORD-0642,EmiratesFabrication,UAE,Box,109,24,19,18,DHL Worldwide Express
+ORD-0643,BrazilliaMachinery,Brazil,Box,98,28,9,11,FedEx International Economy
+ORD-0644,FreightForwarderUS,USA,Crate,1121,60,25,32,SAIA LTL
+ORD-0645,SoCalLogistics,USA,Pallet,590,34,32,48,FedEx Priority Freight LTL
+ORD-0646,MonterreyMotors,Mexico,Box,24,29,11,8,FedEx International Priority
+ORD-0647,AussiePipes,Australia,Pallet,173,38,28,49,FedEx International Economy Freight
+ORD-0648,TechCorp,USA,Crate,1248,68,26,46,FedEx Priority Freight LTL
+ORD-0649,CanuckIndustries,Canada,Box,10,25,16,16,UPS Express Saver
+ORD-0650,NorskDrilling,Norway,Crate,1118,29,38,13,FedEx International Priority Freight
+ORD-0651,IndiaSteelworks,India,Crate,964,28,29,59,FedEx International Economy Freight
+ORD-0652,MexiSteel,Mexico,Pallet,523,43,33,39,SAIA LTL
+ORD-0653,EuroValve,France,Pallet,576,43,36,43,FedEx International Priority Freight
+ORD-0654,ChinaPumps,China,Pallet,480,31,34,32,FedEx International Economy Freight
+ORD-0655,AlbertaOil,Canada,Pallet,499,47,26,40,SAIA LTL
+ORD-0656,UKConnect,United Kingdom,Pallet,589,45,26,38,FedEx International Economy Freight
+ORD-0657,UKConnect,United Kingdom,Box,10,25,16,16,DHL Worldwide Express
+ORD-0658,IndiaSteelworks,India,Box,121,29,19,23,UPS Express Saver
+ORD-0659,CanuckIndustries,Canada,Pallet,209,34,26,37,ABF Freight LTL
+ORD-0660,AussiePipes,Australia,Crate,1169,42,16,14,FedEx International Economy Freight
+ORD-0661,AlbertaOil,Canada,Box,139,15,15,11,UPS Express Saver
+ORD-0662,SoCalLogistics,USA,Box,54,30,19,13,FedEx Ground
+ORD-0663,NorskDrilling,Norway,Pallet,420,38,30,30,DHL Worldwide Express
+ORD-0664,EuroValve,France,Crate,1130,25,18,36,FedEx International Priority Freight
+ORD-0665,OhioManufacturing,USA,Pallet,547,48,26,29,FedEx Economy Freight LTL
+ORD-0666,General Industrial,Saudi Arabia,Pallet,501,47,26,40,FedEx International Economy Freight
+ORD-0667,BrazilliaMachinery,Brazil,Box,8,30,12,18,FedEx International Economy
+ORD-0668,EmiratesFabrication,UAE,Pallet,480,31,34,32,FedEx International Priority Freight
+ORD-0669,MonterreyMotors,Mexico,Crate,1118,29,38,13,FedEx Priority Freight LTL
+ORD-0670,QuebecConstruction,Canada,Box,141,18,18,15,FedEx International Economy
+ORD-0671,TechCorp,USA,Crate,1261,60,25,32,FedEx Priority Freight LTL
+ORD-0672,GlobalParts,Germany,Box,109,24,19,18,DHL Worldwide Express
+ORD-0673,ChinaPumps,China,Box,108,27,11,10,FedEx International Economy
+ORD-0674,FreightForwarderUS,USA,Box,24,29,11,8,UPS Ground
+ORD-0675,TokyoPrecision,Japan,Pallet,546,41,31,43,FedEx International Priority Freight
+ORD-0676,MexiSteel,Mexico,Crate,1283,39,15,57,SAIA LTL
+ORD-0677,OhioManufacturing,USA,Pallet,512,47,26,40,FedEx Economy Freight LTL
+ORD-0678,GlobalParts,Germany,Box,55,27,15,11,DHL Worldwide Express
+ORD-0679,SoCalLogistics,USA,Box,133,26,17,11,FedEx Ground
+ORD-0680,CanuckIndustries,Canada,Crate,1093,29,48,22,ABF Freight LTL
+ORD-0681,AussiePipes,Australia,Crate,1051,46,26,38,FedEx International Economy Freight
+ORD-0682,TokyoPrecision,Japan,Box,123,32,15,18,FedEx International Priority
+ORD-0683,ChinaPumps,China,Crate,1194,44,22,23,FedEx International Economy Freight
+ORD-0684,BrazilliaMachinery,Brazil,Pallet,288,43,30,41,FedEx International Economy Freight
+ORD-0685,EuroValve,France,Pallet,591,43,24,25,FedEx International Priority Freight
+ORD-0686,General Industrial,Saudi Arabia,Box,41,27,15,13,FedEx International Priority
+ORD-0687,UKConnect,United Kingdom,Pallet,278,28,34,30,DHL Worldwide Express
+ORD-0688,TechCorp,USA,Crate,1250,66,19,53,FedEx Priority Freight LTL
+ORD-0689,QuebecConstruction,Canada,Crate,1292,30,42,42,ABF Freight LTL
+ORD-0690,AlbertaOil,Canada,Box,90,14,14,14,UPS Express Saver
+ORD-0691,IndiaSteelworks,India,Pallet,467,39,36,37,FedEx International Economy Freight
+ORD-0692,NorskDrilling,Norway,Crate,104,19,25,31,DHL Worldwide Express
+ORD-0693,EmiratesFabrication,UAE,Crate,1166,42,16,14,FedEx International Priority Freight
+ORD-0694,FreightForwarderUS,USA,Pallet,249,43,30,28,SAIA LTL
+ORD-0695,MonterreyMotors,Mexico,Pallet,533,37,32,38,FedEx Priority Freight LTL
+ORD-0696,MexiSteel,Mexico,Pallet,567,43,33,39,SAIA LTL
+ORD-0697,ChinaPumps,China,Box,53,30,13,11,FedEx International Economy
+ORD-0698,General Industrial,Saudi Arabia,Box,123,34,16,16,FedEx International Priority
+ORD-0699,CanuckIndustries,Canada,Pallet,181,25,29,31,ABF Freight LTL
+ORD-0700,OhioManufacturing,USA,Box,123,28,9,16,FedEx Ground
+ORD-0701,EuroValve,France,Pallet,337,31,28,49,DHL Worldwide Express
+ORD-0702,QuebecConstruction,Canada,Pallet,523,43,33,39,ABF Freight LTL
+ORD-0703,TokyoPrecision,Japan,Crate,116,42,16,33,FedEx International Priority Freight
+ORD-0704,AlbertaOil,Canada,Pallet,239,33,35,43,SAIA LTL
+ORD-0705,SoCalLogistics,USA,Crate,1053,46,26,38,FedEx Priority Freight LTL
+ORD-0706,BrazilliaMachinery,Brazil,Crate,1261,60,25,32,FedEx International Economy Freight
+ORD-0707,TechCorp,USA,Box,10,25,16,16,FedEx Priority Overnight
+ORD-0708,EmiratesFabrication,UAE,Pallet,215,36,36,27,FedEx International Priority Freight
+ORD-0709,AussiePipes,Australia,Box,24,29,11,8,UPS Express Saver
+ORD-0710,GlobalParts,Germany,Pallet,350,34,31,39,DHL Worldwide Express
+ORD-0711,FreightForwarderUS,USA,Box,56,22,9,18,UPS Ground
+ORD-0712,NorskDrilling,Norway,Crate,1248,68,26,46,FedEx International Priority Freight
+ORD-0713,IndiaSteelworks,India,Crate,1299,30,42,42,FedEx International Economy Freight
+ORD-0714,UKConnect,United Kingdom,Box,134,26,16,19,DHL Worldwide Express
+ORD-0715,MexiSteel,Mexico,Crate,1202,23,38,58,SAIA LTL
+ORD-0716,MonterreyMotors,Mexico,Crate,1048,45,16,35,FedEx Priority Freight LTL
+ORD-0717,OhioManufacturing,USA,Crate,128,42,16,33,FedEx Economy Freight LTL
+ORD-0718,AlbertaOil,Canada,Box,108,27,11,10,UPS Express Saver
+ORD-0719,AussiePipes,Australia,Pallet,512,47,26,40,FedEx International Economy Freight
+ORD-0720,CanuckIndustries,Canada,Crate,1087,29,48,22,ABF Freight LTL
+ORD-0721,EuroValve,France,Crate,1062,28,29,59,FedEx International Priority Freight
+ORD-0722,BrazilliaMachinery,Brazil,Box,104,26,17,16,FedEx International Economy
+ORD-0723,General Industrial,Saudi Arabia,Crate,1093,29,48,22,FedEx International Economy Freight
+ORD-0724,QuebecConstruction,Canada,Box,53,30,13,11,FedEx International Economy
+ORD-0725,TechCorp,USA,Pallet,529,28,33,40,FedEx Priority Freight LTL
+ORD-0726,EmiratesFabrication,UAE,Box,133,18,15,14,DHL Worldwide Express
+ORD-0727,SoCalLogistics,USA,Pallet,332,47,33,26,FedEx Priority Freight LTL
+ORD-0728,FreightForwarderUS,USA,Crate,1048,45,16,35,SAIA LTL
+ORD-0729,NorskDrilling,Norway,Pallet,274,27,27,32,DHL Worldwide Express
+ORD-0730,ChinaPumps,China,Pallet,501,47,26,40,FedEx International Economy Freight
+ORD-0731,GlobalParts,Germany,Box,138,20,16,8,DHL Worldwide Express
+ORD-0732,IndiaSteelworks,India,Box,128,29,14,13,UPS Express Saver
+ORD-0733,MexiSteel,Mexico,Crate,1217,35,17,58,SAIA LTL
+ORD-0734,TokyoPrecision,Japan,Crate,1065,28,29,59,FedEx International Priority Freight
+ORD-0735,UKConnect,United Kingdom,Pallet,559,48,26,43,FedEx International Economy Freight
+ORD-0736,CanuckIndustries,Canada,Box,81,19,18,13,UPS Express Saver
+ORD-0737,SoCalLogistics,USA,Box,143,15,12,15,FedEx Ground
+ORD-0738,UKConnect,United Kingdom,Crate,1144,44,22,23,FedEx International Economy Freight
+ORD-0739,General Industrial,Saudi Arabia,Pallet,448,34,32,44,FedEx International Economy Freight
+ORD-0740,BrazilliaMachinery,Brazil,Box,103,28,9,16,FedEx International Economy
+ORD-0741,TechCorp,USA,Box,133,26,17,11,FedEx Priority Overnight
+ORD-0742,OhioManufacturing,USA,Pallet,274,27,27,32,FedEx Economy Freight LTL
+ORD-0743,GlobalParts,Germany,Box,69,21,11,10,DHL Worldwide Express
+ORD-0744,QuebecConstruction,Canada,Box,133,18,15,14,FedEx International Economy
+ORD-0745,AlbertaOil,Canada,Pallet,589,45,26,38,SAIA LTL
+ORD-0746,EuroValve,France,Crate,109,19,25,31,DHL Worldwide Express
+ORD-0747,AussiePipes,Australia,Box,146,14,10,13,UPS Express Saver
+ORD-0748,TokyoPrecision,Japan,Box,14,28,15,10,FedEx International Priority
+ORD-0749,FreightForwarderUS,USA,Box,139,30,10,13,UPS Ground
+ORD-0750,EmiratesFabrication,UAE,Pallet,538,36,36,44,FedEx International Priority Freight
+ORD-0751,ChinaPumps,China,Crate,1051,46,26,38,FedEx International Economy Freight
+ORD-0752,NorskDrilling,Norway,Crate,1184,39,15,57,FedEx International Priority Freight
+ORD-0753,MexiSteel,Mexico,Box,14,28,15,10,FedEx International Economy
+ORD-0754,MonterreyMotors,Mexico,Crate,1168,29,38,13,FedEx Priority Freight LTL
+ORD-0755,IndiaSteelworks,India,Box,30,17,17,13,UPS Express Saver
+ORD-0756,SoCalLogistics,USA,Crate,1292,30,42,42,FedEx Priority Freight LTL
+ORD-0757,QuebecConstruction,Canada,Pallet,547,48,26,29,ABF Freight LTL
+ORD-0758,TechCorp,USA,Pallet,480,31,34,32,FedEx Priority Freight LTL
+ORD-0759,GlobalParts,Germany,Box,148,15,12,15,DHL Worldwide Express
+ORD-0760,AussiePipes,Australia,Crate,1022,23,38,58,FedEx International Economy Freight
+ORD-0761,UKConnect,United Kingdom,Crate,1166,42,16,14,FedEx International Economy Freight
+ORD-0762,EuroValve,France,Pallet,317,39,26,40,DHL Worldwide Express
+ORD-0763,OhioManufacturing,USA,Crate,1217,35,17,58,FedEx Economy Freight LTL
+ORD-0764,General Industrial,Saudi Arabia,Pallet,591,43,24,25,FedEx International Economy Freight
+ORD-0765,EmiratesFabrication,UAE,Crate,1250,66,19,53,FedEx International Priority Freight
+ORD-0766,BrazilliaMachinery,Brazil,Crate,1102,29,48,22,FedEx International Economy Freight
+ORD-0767,ChinaPumps,China,Pallet,590,34,32,48,FedEx International Economy Freight
+ORD-0768,TokyoPrecision,Japan,Box,104,26,17,16,FedEx International Priority
+ORD-0769,IndiaSteelworks,India,Crate,1048,45,16,35,FedEx International Economy Freight
+ORD-0770,FreightForwarderUS,USA,Crate,1053,46,26,38,SAIA LTL
+ORD-0771,CanuckIndustries,Canada,Crate,1130,25,18,36,ABF Freight LTL
+ORD-0772,MonterreyMotors,Mexico,Box,129,15,12,15,FedEx International Priority
+ORD-0773,AlbertaOil,Canada,Pallet,350,34,31,39,SAIA LTL
+ORD-0774,NorskDrilling,Norway,Crate,1169,42,16,14,FedEx International Priority Freight
+ORD-0775,MexiSteel,Mexico,Crate,1057,29,19,41,SAIA LTL
+ORD-0776,UKConnect,United Kingdom,Box,11,15,12,15,DHL Worldwide Express
+ORD-0777,ChinaPumps,China,Pallet,278,28,34,30,FedEx International Economy Freight
+ORD-0778,GlobalParts,Germany,Crate,1202,23,38,58,FedEx International Priority Freight
+ORD-0779,FreightForwarderUS,USA,Pallet,512,47,26,40,SAIA LTL
+ORD-0780,QuebecConstruction,Canada,Crate,1168,29,38,13,ABF Freight LTL
+ORD-0781,NorskDrilling,Norway,Pallet,542,43,33,39,FedEx International Priority Freight
+ORD-0782,EmiratesFabrication,UAE,Crate,1087,29,48,22,FedEx International Priority Freight
+ORD-0783,BrazilliaMachinery,Brazil,Pallet,467,39,36,37,FedEx International Economy Freight
+ORD-0784,MonterreyMotors,Mexico,Crate,1052,46,26,38,FedEx Priority Freight LTL
+ORD-0785,General Industrial,Saudi Arabia,Box,133,15,12,15,FedEx International Priority
+ORD-0786,AussiePipes,Australia,Box,123,32,15,18,UPS Express Saver
+ORD-0787,TokyoPrecision,Japan,Pallet,209,34,26,37,FedEx International Priority Freight
+ORD-0788,EuroValve,France,Box,129,15,12,15,FedEx International Priority
+ORD-0789,SoCalLogistics,USA,Pallet,386,47,33,31,FedEx Priority Freight LTL
+ORD-0790,TechCorp,USA,Crate,1184,39,15,57,FedEx Priority Freight LTL
+ORD-0791,CanuckIndustries,Canada,Crate,1102,29,48,22,ABF Freight LTL
+ORD-0792,OhioManufacturing,USA,Pallet,332,47,33,26,FedEx Economy Freight LTL
+ORD-0793,IndiaSteelworks,India,Box,118,13,7,7,UPS Express Saver
+ORD-0794,MexiSteel,Mexico,Pallet,251,39,26,40,SAIA LTL
+ORD-0795,AlbertaOil,Canada,Crate,1166,42,16,14,SAIA LTL
+ORD-0796,EuroValve,France,Box,146,14,10,13,FedEx International Priority
+ORD-0797,General Industrial,Saudi Arabia,Crate,1118,29,38,13,FedEx International Economy Freight
+ORD-0798,NorskDrilling,Norway,Pallet,567,43,33,39,FedEx International Priority Freight
+ORD-0799,UKConnect,United Kingdom,Crate,104,19,25,31,DHL Worldwide Express
+ORD-0800,QuebecConstruction,Canada,Box,134,26,16,19,FedEx International Economy
+ORD-0801,SoCalLogistics,USA,Crate,1202,23,38,58,FedEx Priority Freight LTL
+ORD-0802,BrazilliaMachinery,Brazil,Crate,1048,45,16,35,FedEx International Economy Freight
+ORD-0803,AussiePipes,Australia,Pallet,589,45,26,38,FedEx International Economy Freight
+ORD-0804,AlbertaOil,Canada,Crate,1217,35,17,58,SAIA LTL
+ORD-0805,CanuckIndustries,Canada,Box,148,15,12,15,UPS Express Saver
+ORD-0806,MonterreyMotors,Mexico,Crate,1299,30,42,42,FedEx Priority Freight LTL
+ORD-0807,EmiratesFabrication,UAE,Box,136,15,12,15,DHL Worldwide Express
+ORD-0808,IndiaSteelworks,India,Pallet,546,41,31,43,FedEx International Economy Freight
+ORD-0809,FreightForwarderUS,USA,Box,127,15,12,15,UPS Ground
+ORD-0810,ChinaPumps,China,Box,109,15,12,15,FedEx International Economy
+ORD-0811,OhioManufacturing,USA,Crate,1147,60,25,32,FedEx Economy Freight LTL
+ORD-0812,TokyoPrecision,Japan,Crate,1283,39,15,57,FedEx International Priority Freight
+ORD-0813,TechCorp,USA,Crate,1223,66,19,53,FedEx Priority Freight LTL
+ORD-0814,GlobalParts,Germany,Crate,1169,42,16,14,FedEx International Priority Freight
+ORD-0815,MexiSteel,Mexico,Crate,1118,29,38,13,SAIA LTL
+ORD-0816,CanuckIndustries,Canada,Crate,1184,39,15,57,ABF Freight LTL
+ORD-0817,MonterreyMotors,Mexico,Crate,104,19,25,31,FedEx Priority Freight LTL
+ORD-0818,EuroValve,France,Box,136,15,12,15,FedEx International Priority
+ORD-0819,SoCalLogistics,USA,Pallet,576,43,36,43,FedEx Priority Freight LTL
+ORD-0820,OhioManufacturing,USA,Box,139,12,12,9,FedEx Ground
+ORD-0821,EmiratesFabrication,UAE,Pallet,288,43,30,41,FedEx International Priority Freight
+ORD-0822,NorskDrilling,Norway,Box,101,15,12,15,DHL Worldwide Express
+ORD-0823,BrazilliaMachinery,Brazil,Pallet,366,38,36,37,FedEx International Economy Freight
+ORD-0824,General Industrial,Saudi Arabia,Crate,1202,23,38,58,FedEx International Economy Freight
+ORD-0825,FreightForwarderUS,USA,Pallet,337,31,28,49,SAIA LTL
+ORD-0826,ChinaPumps,China,Crate,1166,42,16,14,FedEx International Economy Freight
+ORD-0827,AlbertaOil,Canada,Pallet,559,48,26,43,SAIA LTL
+ORD-0828,UKConnect,United Kingdom,Pallet,501,47,26,40,FedEx International Economy Freight
+ORD-0829,AussiePipes,Australia,Box,136,15,12,15,UPS Express Saver
+ORD-0830,TokyoPrecision,Japan,Crate,1147,60,25,32,FedEx International Priority Freight
+ORD-0831,QuebecConstruction,Canada,Crate,1217,35,17,58,ABF Freight LTL
+ORD-0832,GlobalParts,Germany,Crate,1292,30,42,42,FedEx International Priority Freight
+ORD-0833,IndiaSteelworks,India,Pallet,326,38,32,38,FedEx International Economy Freight
+ORD-0834,TechCorp,USA,Crate,1283,39,15,57,FedEx Priority Freight LTL
+ORD-0835,MexiSteel,Mexico,Pallet,181,25,29,31,SAIA LTL
+ORD-0836,AlbertaOil,Canada,Box,123,12,12,9,UPS Express Saver
+ORD-0837,BrazilliaMachinery,Brazil,Crate,1130,25,18,36,FedEx International Economy Freight
+ORD-0838,AussiePipes,Australia,Crate,1250,66,19,53,FedEx International Economy Freight
+ORD-0839,EuroValve,France,Crate,1051,46,26,38,FedEx International Priority Freight
+ORD-0840,ChinaPumps,China,Box,102,15,12,15,FedEx International Economy
+ORD-0841,MonterreyMotors,Mexico,Pallet,542,43,33,39,FedEx Priority Freight LTL
+ORD-0842,UKConnect,United Kingdom,Box,101,15,12,15,DHL Worldwide Express
+ORD-0843,CanuckIndustries,Canada,Crate,116,42,16,33,ABF Freight LTL
+ORD-0844,EmiratesFabrication,UAE,Pallet,249,43,30,28,FedEx International Priority Freight
+ORD-0845,GlobalParts,Germany,Box,11,15,12,15,DHL Worldwide Express
+ORD-0846,QuebecConstruction,Canada,Crate,1194,44,22,23,ABF Freight LTL
+ORD-0847,FreightForwarderUS,USA,Box,108,12,12,9,UPS Ground
+ORD-0848,SoCalLogistics,USA,Pallet,215,36,36,27,FedEx Priority Freight LTL
+ORD-0849,NorskDrilling,Norway,Crate,109,19,25,31,DHL Worldwide Express
+ORD-0850,General Industrial,Saudi Arabia,Pallet,533,37,32,38,FedEx International Economy Freight
+ORD-0851,IndiaSteelworks,India,Box,14,12,12,9,UPS Express Saver
+ORD-0852,OhioManufacturing,USA,Pallet,317,39,26,40,FedEx Economy Freight LTL
+ORD-0853,TechCorp,USA,Box,149,15,12,15,FedEx Priority Overnight
+ORD-0854,TokyoPrecision,Japan,Crate,1057,29,19,41,FedEx International Priority Freight
+ORD-0855,MexiSteel,Mexico,Crate,1261,60,25,32,SAIA LTL
+ORD-0856,OhioManufacturing,USA,Pallet,523,43,33,39,FedEx Economy Freight LTL
+ORD-0857,FreightForwarderUS,USA,Pallet,576,43,36,43,SAIA LTL
+ORD-0858,TechCorp,USA,Box,133,15,12,15,FedEx Priority Overnight
+ORD-0859,EmiratesFabrication,UAE,Box,147,15,12,15,DHL Worldwide Express
+ORD-0860,MonterreyMotors,Mexico,Crate,1166,42,16,14,FedEx Priority Freight LTL
+ORD-0861,GlobalParts,Germany,Pallet,278,28,34,30,DHL Worldwide Express
+ORD-0862,TokyoPrecision,Japan,Crate,1217,35,17,58,FedEx International Priority Freight
+ORD-0863,AussiePipes,Australia,Pallet,420,38,30,30,FedEx International Economy Freight
+ORD-0864,NorskDrilling,Norway,Pallet,153,24,24,27,DHL Worldwide Express
+ORD-0865,General Industrial,Saudi Arabia,Box,129,15,12,15,FedEx International Priority
+ORD-0866,AlbertaOil,Canada,Pallet,317,39,26,40,SAIA LTL
+ORD-0867,UKConnect,United Kingdom,Crate,1102,29,48,22,FedEx International Economy Freight
+ORD-0868,BrazilliaMachinery,Brazil,Crate,1087,29,48,22,FedEx International Economy Freight
+ORD-0869,SoCalLogistics,USA,Box,137,22,18,23,FedEx Ground
+ORD-0870,CanuckIndustries,Canada,Crate,1283,39,15,57,ABF Freight LTL
+ORD-0871,EuroValve,France,Pallet,386,47,33,31,DHL Worldwide Express
+ORD-0872,IndiaSteelworks,India,Crate,1118,29,38,13,FedEx International Economy Freight
+ORD-0873,QuebecConstruction,Canada,Pallet,559,48,26,43,ABF Freight LTL
+ORD-0874,ChinaPumps,China,Pallet,559,48,26,43,FedEx International Economy Freight
+ORD-0875,MexiSteel,Mexico,Crate,1093,29,48,22,SAIA LTL
+ORD-0876,AlbertaOil,Canada,Crate,1051,46,26,38,SAIA LTL
+ORD-0877,OhioManufacturing,USA,Box,81,15,12,15,FedEx Ground
+ORD-0878,UKConnect,United Kingdom,Pallet,288,43,30,41,DHL Worldwide Express
+ORD-0879,General Industrial,Saudi Arabia,Pallet,332,47,33,26,FedEx International Economy Freight
+ORD-0880,CanuckIndustries,Canada,Pallet,499,47,26,40,ABF Freight LTL
+ORD-0881,BrazilliaMachinery,Brazil,Crate,1053,46,26,38,FedEx International Economy Freight
+ORD-0882,GlobalParts,Germany,Crate,1065,28,29,59,FedEx International Priority Freight
+ORD-0883,QuebecConstruction,Canada,Box,114,34,20,20,FedEx International Economy
+ORD-0884,TechCorp,USA,Crate,1016,23,38,58,FedEx Priority Freight LTL
+ORD-0885,SoCalLogistics,USA,Pallet,542,43,33,39,FedEx Priority Freight LTL
+ORD-0886,AussiePipes,Australia,Box,103,13,7,7,UPS Express Saver
+ORD-0887,FreightForwarderUS,USA,Box,143,15,12,15,UPS Ground
+ORD-0888,EmiratesFabrication,UAE,Pallet,591,43,24,25,FedEx International Priority Freight
+ORD-0889,TokyoPrecision,Japan,Crate,1261,60,25,32,FedEx International Priority Freight
+ORD-0890,EuroValve,France,Box,143,15,12,15,FedEx International Priority
+ORD-0891,IndiaSteelworks,India,Box,138,13,7,7,UPS Express Saver
+ORD-0892,NorskDrilling,Norway,Crate,1299,30,42,42,FedEx International Priority Freight
+ORD-0893,MonterreyMotors,Mexico,Crate,1065,28,29,59,FedEx Priority Freight LTL
+ORD-0894,ChinaPumps,China,Crate,1248,68,26,46,FedEx International Economy Freight
+ORD-0895,MexiSteel,Mexico,Crate,104,19,25,31,SAIA LTL
+ORD-0896,SoCalLogistics,USA,Crate,1130,25,18,36,FedEx Priority Freight LTL
+ORD-0897,GlobalParts,Germany,Pallet,547,48,26,29,FedEx International Priority Freight
+ORD-0898,CanuckIndustries,Canada,Box,134,13,7,7,UPS Express Saver
+ORD-0899,EuroValve,France,Crate,1087,29,48,22,FedEx International Priority Freight
+ORD-0900,AussiePipes,Australia,Pallet,238,26,25,35,FedEx International Economy Freight
+ORD-0901,MonterreyMotors,Mexico,Pallet,501,47,26,40,FedEx Priority Freight LTL
+ORD-0902,OhioManufacturing,USA,Pallet,499,47,26,40,FedEx Economy Freight LTL
+ORD-0903,FreightForwarderUS,USA,Pallet,420,38,30,30,SAIA LTL
+ORD-0904,AlbertaOil,Canada,Pallet,480,31,34,32,SAIA LTL
+ORD-0905,TokyoPrecision,Japan,Box,138,13,7,7,FedEx International Priority
+ORD-0906,BrazilliaMachinery,Brazil,Box,128,15,12,15,FedEx International Economy
+ORD-0907,UKConnect,United Kingdom,Box,129,15,12,15,DHL Worldwide Express
+ORD-0908,TechCorp,USA,Box,108,12,12,9,FedEx Priority Overnight
+ORD-0909,QuebecConstruction,Canada,Pallet,337,31,28,49,ABF Freight LTL
+ORD-0910,EmiratesFabrication,UAE,Crate,1147,60,25,32,FedEx International Priority Freight
+ORD-0911,NorskDrilling,Norway,Box,134,13,7,7,DHL Worldwide Express
+ORD-0912,IndiaSteelworks,India,Crate,128,42,16,33,FedEx International Economy Freight
+ORD-0913,General Industrial,Saudi Arabia,Crate,116,42,16,33,FedEx International Economy Freight
+ORD-0914,ChinaPumps,China,Pallet,576,43,36,43,FedEx International Economy Freight
+ORD-0915,MexiSteel,Mexico,Crate,109,19,25,31,SAIA LTL
+ORD-0916,AussiePipes,Australia,Box,119,12,12,9,UPS Express Saver
+ORD-0917,QuebecConstruction,Canada,Pallet,512,47,26,40,ABF Freight LTL
+ORD-0918,BrazilliaMachinery,Brazil,Crate,1022,23,38,58,FedEx International Economy Freight
+ORD-0919,EmiratesFabrication,UAE,Box,108,12,12,9,DHL Worldwide Express
+ORD-0920,EuroValve,France,Crate,1166,42,16,14,FedEx International Priority Freight
+ORD-0921,TokyoPrecision,Japan,Box,143,15,12,15,FedEx International Priority
+ORD-0922,AlbertaOil,Canada,Crate,1144,44,22,23,SAIA LTL
+ORD-0923,UKConnect,United Kingdom,Crate,1057,29,19,41,FedEx International Economy Freight
+ORD-0924,SoCalLogistics,USA,Crate,1261,60,25,32,FedEx Priority Freight LTL
+ORD-0925,CanuckIndustries,Canada,Crate,1065,28,29,59,ABF Freight LTL
+ORD-0926,IndiaSteelworks,India,Crate,1223,66,19,53,FedEx International Economy Freight
+ORD-0927,TechCorp,USA,Crate,1130,25,18,36,FedEx Priority Freight LTL
+ORD-0928,FreightForwarderUS,USA,Box,10,12,12,9,UPS Ground
+ORD-0929,OhioManufacturing,USA,Pallet,209,34,26,37,FedEx Economy Freight LTL
+ORD-0930,GlobalParts,Germany,Box,133,15,12,15,DHL Worldwide Express
+ORD-0931,General Industrial,Saudi Arabia,Box,146,12,12,9,FedEx International Priority
+ORD-0932,NorskDrilling,Norway,Box,127,15,12,15,DHL Worldwide Express
+ORD-0933,MonterreyMotors,Mexico,Crate,1202,23,38,58,FedEx Priority Freight LTL
+ORD-0934,MexiSteel,Mexico,Box,138,13,7,7,FedEx International Economy
+ORD-0935,ChinaPumps,China,Box,134,13,7,7,FedEx International Economy
+ORD-0936,CanuckIndustries,Canada,Pallet,232,37,35,40,ABF Freight LTL
+ORD-0937,OhioManufacturing,USA,Box,112,13,7,7,FedEx Ground
+ORD-0938,BrazilliaMachinery,Brazil,Pallet,153,24,24,27,FedEx International Economy Freight
+ORD-0939,UKConnect,United Kingdom,Pallet,317,39,26,40,DHL Worldwide Express
+ORD-0940,AlbertaOil,Canada,Crate,1292,30,42,42,SAIA LTL
+ORD-0941,General Industrial,Saudi Arabia,Pallet,288,43,30,41,FedEx International Economy Freight
+ORD-0942,FreightForwarderUS,USA,Pallet,591,43,24,25,SAIA LTL
+ORD-0943,SoCalLogistics,USA,Pallet,512,47,26,40,FedEx Priority Freight LTL
+ORD-0944,EuroValve,France,Pallet,529,28,33,40,FedEx International Priority Freight
+ORD-0945,AussiePipes,Australia,Crate,1283,39,15,57,FedEx International Economy Freight
+ORD-0946,QuebecConstruction,Canada,Box,109,15,12,15,FedEx International Economy
+ORD-0947,NorskDrilling,Norway,Crate,1053,46,26,38,FedEx International Priority Freight
+ORD-0948,EmiratesFabrication,UAE,Crate,1223,66,19,53,FedEx International Priority Freight
+ORD-0949,GlobalParts,Germany,Box,143,15,12,15,DHL Worldwide Express
+ORD-0950,IndiaSteelworks,India,Box,104,13,7,7,UPS Express Saver
+ORD-0951,MonterreyMotors,Mexico,Box,103,13,7,7,FedEx International Priority
+ORD-0952,TechCorp,USA,Crate,1248,68,26,46,FedEx Priority Freight LTL
+ORD-0953,TokyoPrecision,Japan,Pallet,332,47,33,26,FedEx International Priority Freight
+ORD-0954,MexiSteel,Mexico,Pallet,337,31,28,49,SAIA LTL
+ORD-0955,ChinaPumps,China,Pallet,366,38,36,37,FedEx International Economy Freight
+ORD-0956,AlbertaOil,Canada,Crate,1261,60,25,32,SAIA LTL
+ORD-0957,General Industrial,Saudi Arabia,Pallet,576,43,36,43,FedEx International Economy Freight
+ORD-0958,TokyoPrecision,Japan,Box,146,12,12,9,FedEx International Priority
+ORD-0959,SoCalLogistics,USA,Crate,1087,29,48,22,FedEx Priority Freight LTL
+ORD-0960,UKConnect,United Kingdom,Crate,1261,60,25,32,FedEx International Economy Freight
+ORD-0961,CanuckIndustries,Canada,Box,102,15,12,15,UPS Express Saver
+ORD-0962,BrazilliaMachinery,Brazil,Box,146,12,12,9,FedEx International Economy
+ORD-0963,AussiePipes,Australia,Crate,1194,44,22,23,FedEx International Economy Freight
+ORD-0964,NorskDrilling,Norway,Box,144,34,20,20,DHL Worldwide Express
+ORD-0965,EmiratesFabrication,UAE,Box,143,15,12,15,DHL Worldwide Express
+ORD-0966,GlobalParts,Germany,Crate,1093,29,48,22,FedEx International Priority Freight
+ORD-0967,OhioManufacturing,USA,Box,10,12,12,9,FedEx Ground
+ORD-0968,EuroValve,France,Pallet,181,25,29,31,DHL Worldwide Express
+ORD-0969,IndiaSteelworks,India,Crate,1051,46,26,38,FedEx International Economy Freight
+ORD-0970,TechCorp,USA,Crate,1062,28,29,59,FedEx Priority Freight LTL
+ORD-0971,QuebecConstruction,Canada,Pallet,546,41,31,43,ABF Freight LTL
+ORD-0972,FreightForwarderUS,USA,Crate,1184,39,15,57,SAIA LTL
+ORD-0973,MonterreyMotors,Mexico,Pallet,523,43,33,39,FedEx Priority Freight LTL
+ORD-0974,MexiSteel,Mexico,Crate,1169,42,16,14,SAIA LTL
+ORD-0975,ChinaPumps,China,Crate,1299,30,42,42,FedEx International Economy Freight
+ORD-0976,BrazilliaMachinery,Brazil,Pallet,591,43,24,25,FedEx International Economy Freight
+ORD-0977,General Industrial,Saudi Arabia,Pallet,499,47,26,40,FedEx International Economy Freight
+ORD-0978,SoCalLogistics,USA,Box,149,15,12,15,FedEx Ground
+ORD-0979,UKConnect,United Kingdom,Pallet,529,28,33,40,FedEx International Economy Freight
+ORD-0980,OhioManufacturing,USA,Box,103,13,7,7,FedEx Ground
+ORD-0981,CanuckIndustries,Canada,Crate,1223,66,19,53,ABF Freight LTL
+ORD-0982,AussiePipes,Australia,Crate,1016,23,38,58,FedEx International Economy Freight
+ORD-0983,GlobalParts,Germany,Crate,1048,45,16,35,FedEx International Priority Freight
+ORD-0984,EuroValve,France,Box,137,22,18,23,FedEx International Priority
+ORD-0985,IndiaSteelworks,India,Pallet,249,43,30,28,FedEx International Economy Freight
+ORD-0986,AlbertaOil,Canada,Pallet,547,48,26,29,SAIA LTL
+ORD-0987,FreightForwarderUS,USA,Box,138,13,7,7,UPS Ground
+ORD-0988,NorskDrilling,Norway,Crate,1062,28,29,59,FedEx International Priority Freight
+ORD-0989,EmiratesFabrication,UAE,Crate,1051,46,26,38,FedEx International Priority Freight
+ORD-0990,TokyoPrecision,Japan,Pallet,559,48,26,43,FedEx International Priority Freight
+ORD-0991,QuebecConstruction,Canada,Crate,1144,44,22,23,ABF Freight LTL
+ORD-0992,TechCorp,USA,Crate,1057,29,19,41,FedEx Priority Freight LTL
+ORD-0993,MexiSteel,Mexico,Crate,1250,66,19,53,SAIA LTL
+ORD-0994,MonterreyMotors,Mexico,Pallet,251,39,26,40,FedEx Priority Freight LTL
+ORD-0995,ChinaPumps,China,Crate,1062,28,29,59,FedEx International Economy Freight
+ORD-0996,SoCalLogistics,USA,Pallet,288,43,30,41,FedEx Priority Freight LTL
+ORD-0997,AussiePipes,Australia,Pallet,251,39,26,40,FedEx International Economy Freight
+ORD-0998,BrazilliaMachinery,Brazil,Crate,104,19,25,31,FedEx International Economy Freight
+ORD-0999,AlbertaOil,Canada,Crate,1184,39,15,57,SAIA LTL
+ORD-1000,CanuckIndustries,Canada,Crate,1118,29,38,13,ABF Freight LTL
