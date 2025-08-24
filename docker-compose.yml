@@ -3,7 +3,7 @@ version: '3.8'
 services:
   app:
     # Build the image from the Dockerfile in the current directory
-    build:.
+    build: .
     # Name the container for easier identification
     container_name: logistics_predictor_app
     # Set the working directory inside the container
@@ -12,6 +12,6 @@ services:
     command: ["python", "main.py"]
     # Pass environment variables from a '.env' file securely
     env_file:
-      -.env
+      - .env
     # Restart policy
     restart: unless-stopped

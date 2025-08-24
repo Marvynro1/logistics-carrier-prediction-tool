@@ -13,3 +13,5 @@ dependencies:
   - pip
   - pip:
       - anvil-uplink
+      - python-dotenv
+      - plotly
