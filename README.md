@@ -1,4 +1,10 @@
-# Logistics Carrier Prediction Tool - Capstone Project
+## 🚀 Live Demo
+
+This application has been deployed to a live server for easy access and demonstration.
+
+**You can access the live application here:** https://ddhrgvebw25wfi2b.anvil.app/I6RUPSWSD4AFO3BBKAXT63P7
+
+# VALV Industries - Logistics Carrier Prediction Tool - Capstone Project
 
 ## Project Overview
 
