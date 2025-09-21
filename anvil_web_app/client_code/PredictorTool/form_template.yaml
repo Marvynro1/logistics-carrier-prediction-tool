@@ -1,0 +1,188 @@
+components:
+- components:
+  - components:
+    - components:
+      - layout_properties: {grid_position: 'EDZBCK,NBFJTM'}
+        name: label_7
+        properties: {align: left, bold: true, font_size: 18, foreground: '', role: title, text: Logistics Carrier Predictor}
+        type: Label
+      - layout_properties: {grid_position: 'WPZYXU,JCJXTN'}
+        name: client_
+        properties: {role: input-prompt, text: Ship To}
+        type: Label
+      - event_bindings: {change: client_name_dropdown_change}
+        layout_properties: {grid_position: 'ISBMDQ,QALBMP'}
+        name: client_name_dropdown
+        properties: {background: '', role: null}
+        type: DropDown
+      - layout_properties: {grid_position: 'EPBPVT,FPSYXK'}
+        name: destination_country_label
+        properties: {role: input-prompt, text: Destination Country}
+        type: Label
+      - data_bindings:
+        - {code: '', property: placeholder, writeback: false}
+        event_bindings: {}
+        layout_properties: {grid_position: 'LEDDQF,XIZVRX'}
+        name: destination_country_box
+        properties: {background: 'theme:Background', enabled: false, placeholder: '', visible: true}
+        type: TextBox
+      - layout_properties: {grid_position: 'PCVWEG,SQQEQE'}
+        name: label_4
+        properties: {role: input-prompt, spacing_below: small, text: Weight (lbs)}
+        type: Label
+      - event_bindings: {pressed_enter: weight_box_pressed_enter}
+        layout_properties: {grid_position: 'IBQOFX,VSXRFK'}
+        name: weight_box
+        properties:
+          background: theme:Background
+          margin: [null, 0, 0, null]
+          placeholder: ''
+        type: TextBox
+      - layout_properties: {grid_position: 'ZWCIOH,DKUCEI TZXGBA,SYZYHL'}
+        name: label_5
+        properties: {role: input-prompt, text: Length (in)}
+        type: Label
+      - event_bindings: {pressed_enter: length_box_pressed_enter}
+        layout_properties: {grid_position: 'ZWCIOH,DKUCEI ZAOEPC,LZOSUG'}
+        name: length_box
+        properties:
+          background: theme:Background
+          margin: [null, 0, null, 0]
+          placeholder: ''
+        type: TextBox
+      - layout_properties: {grid_position: 'ZWCIOH,VXYDFO RRJAQK,CRKXGT'}
+        name: label_6
+        properties: {role: input-prompt, text: Width (in)}
+        type: Label
+      - event_bindings: {pressed_enter: width_box_pressed_enter}
+        layout_properties: {grid_position: 'ZWCIOH,VXYDFO SEYIIS,GRMBHA'}
+        name: width_box
+        properties: {background: 'theme:Background', placeholder: ''}
+        type: TextBox
+      - layout_properties: {grid_position: 'ZWCIOH,ETBPKN MEPQWJ,LYEGOT'}
+        name: label_8
+        properties: {role: input-prompt, text: Height (in)}
+        type: Label
+      - event_bindings: {pressed_enter: height_box_pressed_enter}
+        layout_properties: {grid_position: 'ZWCIOH,ETBPKN WJPNQJ,QOZKTQ'}
+        name: height_box
+        properties: {background: 'theme:Background', bold: false, placeholder: '', role: null, text: ''}
+        type: TextBox
+      - layout_properties: {grid_position: 'ATTVND,DMBTGF'}
+        name: spacer_1
+        properties: {height: 12.17327880859375}
+        type: Spacer
+      - data_bindings: []
+        event_bindings: {click: predict_button_click}
+        layout_properties: {grid_position: 'BTWDYB,RZFDLZ'}
+        name: predict_button
+        properties:
+          align: full
+          background: '#0f0f0f'
+          bold: false
+          enabled: true
+          foreground: '#c0c9c1'
+          role: [outlined-button, filled-button]
+          text: Predict Carrier
+          visible: true
+        type: Button
+      layout_properties: {grid_position: 'IXQQTM,ZMFHVS'}
+      name: outlined_card_11
+      properties: {background: '#111111', role: tonal-card}
+      type: ColumnPanel
+    layout_properties: {grid_position: 'ZERUIO,IWOHDD'}
+    name: outlined_card_1
+    properties: {background: '#111111', border: '', role: outlined-card}
+    type: ColumnPanel
+  - components:
+    - components:
+      - layout_properties: {grid_position: 'EMSSHI,EHAQDP'}
+        name: shipment_type_label
+        properties: {align: left, bold: false, font_size: 18, foreground: '', role: display, text: 'Shipment Type:'}
+        type: Label
+      - components:
+        - layout_properties: {grid_position: 'ZEXCPZ,MXLWFU'}
+          name: shipment_type_score_label
+          properties: {align: center, font_size: 18, role: null, text: --}
+          type: Label
+        layout_properties: {grid_position: 'EMSSHI,GDYRVV'}
+        name: outlined_card_6
+        properties: {background: 'theme:Background', role: outlined-card}
+        type: ColumnPanel
+      - layout_properties: {grid_position: 'MJYVXB,WZKOMN'}
+        name: carrier_label
+        properties: {align: left, bold: false, font: '', font_size: 18, foreground: '', role: display, text: 'Carrier:'}
+        type: Label
+      - components:
+        - layout_properties: {grid_position: 'PNACMH,IZNJSZ'}
+          name: carrier_score_label
+          properties: {align: center, font_size: 18, role: null, text: --}
+          type: Label
+        layout_properties: {grid_position: 'MJYVXB,IDWLEJ'}
+        name: outlined_card_7
+        properties: {background: 'theme:Background', role: outlined-card}
+        type: ColumnPanel
+      - layout_properties: {grid_position: 'WVZLAG,SYKUWT'}
+        name: overall_confidence_label
+        properties: {align: left, font_size: 18, italic: false, role: display, text: 'Overall Confidence:'}
+        type: Label
+      - components:
+        - layout_properties: {grid_position: 'LBKSCE,LIWHQU'}
+          name: overall_confidence_score_label
+          properties: {align: center, font_size: 18, role: null, text: --}
+          type: Label
+        layout_properties: {grid_position: 'WVZLAG,PSCKSD'}
+        name: outlined_card_8
+        properties: {background: 'theme:Background', role: outlined-card}
+        type: ColumnPanel
+      layout_properties: {grid_position: 'CHSKBV,WYMZEJ'}
+      name: outlined_card_10
+      properties: {background: '#111111', role: tonal-card}
+      type: ColumnPanel
+    layout_properties: {grid_position: 'ZERUIO,OEXCHL'}
+    name: outlined_card_4
+    properties: {background: '#111111', role: outlined-card, wrap_on: mobile}
+    type: ColumnPanel
+  layout_properties: {slot: default}
+  name: content_panel
+  properties:
+    background: ''
+    col_widths: '{}'
+    foreground: ''
+    role: null
+    spacing:
+      margin: [0, '0', '0', '0']
+    visible: true
+  type: ColumnPanel
+- data_bindings: []
+  layout_properties: {slot: nav-right}
+  name: navbar_links
+  properties: {}
+  type: FlowPanel
+- components:
+  - layout_properties: {grid_position: 'QFIZZH,LXFUQX'}
+    name: carrier_predictor_link
+    properties: {icon: 'fa:magic', text: Carrier Predictor Tool}
+    type: Link
+  - event_bindings: {click: dashboard_link_click}
+    layout_properties: {grid_position: 'JFLLOZ,ZSTNJN'}
+    name: dashboard_link
+    properties: {align: left, foreground: '', icon: 'fa:bar-chart', text: Dashboard}
+    type: Link
+  layout_properties: {slot: left-nav}
+  name: column_panel_1
+  properties:
+    background: ''
+    spacing:
+      margin: ['0', null, null, null]
+    spacing_above: small
+    spacing_below: small
+  type: ColumnPanel
+- layout_properties: {slot: title}
+  name: title_label
+  properties: {bold: true, font: Helvetica, role: title, text: VALV INDUSTRIES}
+  type: Label
+container:
+  properties: {background: '', foreground: '', html: '@theme:standard-page.html'}
+  type: HtmlTemplate
+is_package: true

@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn==1.7.1
+matplotlib
+seaborn
+jupyterlab
+anvil-uplink
+joblib
+plotly
+pycountry

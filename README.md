@@ -1,83 +1,57 @@
-# VALV Logistics Carrier Prediction Tool
+# Logistics Carrier Prediction Tool - Capstone Project
 
-This project is a machine learning application designed for a fictitious industrial valve manufacturer (VALV Industries). It takes shipment details (client, destination, dimensions, and weight) as input and provides two key functions:
+## Project Overview
 
-1.  **Classification**: Classifies the shipment as a "Box," "Pallet," or "Crate."
-2.  **Prediction**: Predicts the optimal shipping carrier service based on the inputs and the classified shipment type.
+This project is a fully functional data product designed to solve a business problem for an industrial valve manufacturer. It uses descriptive and predictive methods to analyze historical shipping data and predict the optimal shipping carrier for new shipments. The application features a user-friendly dashboard with interactive data visualizations and is powered by a containerized machine learning backend.
 
-The entire application is containerized with Docker for seamless, one-command reproducibility.
-
----
-## Live Application Link
-
-**https://ddhrgvebw25wfi2b.anvil.app/2HMRG2H6JAF5JQZUOLTYTRIR**
+This entire project is designed for one-command reproducibility, allowing the user to run both the backend server and the JupyterLab analysis environment with a single script.
 
 ---
-## Instructions (Using Docker)
+## How to Run the Project
 
-These instructions allow you to run the entire backend application with a single command.
+This project is containerized using Docker and includes a setup script for a seamless, automated setup on Windows.
 
 ### Prerequisites
 
-* You must have **Docker Desktop** installed and running on your machine. It can be downloaded from the official Docker website.
-* Git should be installed, otherwise download the zip file and extract it
+* You must have **Docker Desktop** installed and running on your machine.
+* You will need the Anvil Uplink Key that was provided to you.
 
-### Running the Application
+### Instructions
 
-**1. Clone the Repository:**
+1.  **Unzip Project Files:**
+    Unzip the provided project folder to a location on your computer.
 
-Open a command prompt or PowerShell and clone this repository to your local machine:
-```bash
-git clone https://github.com/Marvynro1/logistics-carrier-prediction-tool.git
-cd logistics-carrier-prediction-tool
-```
+2.  **Run the Setup Script:**
+    Double-click the **`run.bat`** file.
 
-## Create the Environment File:
-This project requires an Anvil Uplink key to connect the backend to the web UI. You'll have to create an Anvil account if you don't already have one. A template file, **.env.example**, is included in the repository.
+3.  **Enter the Anvil Key:**
+    A new terminal window will open and prompt you to enter the Anvil Uplink Key. Paste the key you were provided and press **Enter**.
 
-First, make a copy of this file and rename the copy to **.env**. You can do this in your file explorer or by running the appropriate command in your terminal:
+The script will automatically create the necessary configuration file and then build and run the Docker container. This process may take several minutes the first time.
 
-* **For Windows (Command Prompt or PowerShell):**
-```bash
-copy .env.example .env
-```
+### Accessing the Application and Notebook
 
-* **For macOS or Linux:**
-```bash
-cp .env.example .env
-```
+Once the backend server is ready, the script will automatically open two tabs in your default web browser.
 
-Next, open the new ***.env*** file and replace the placeholder ***enter_you_key_here*** with the actual Anvil Server Uplink key for the project. The file should contain a single line:
-```bash
-ANVIL_UPLINK_KEY=enter_your_key_here
-```
+1.  **Anvil Web App**: The main application interface for making predictions and viewing the dashboard.
+2.  **Jupyter Notebook**: The JupyterLab environment for reviewing the data analysis and model training process.
 
-## Build and Run the Container:
-Navigate to the project's root directory in your terminal and run the following single command:
-```bash
-docker-compose up --build
-```
+The URLs will also be printed in the terminal for your reference:
+* **Anvil Web App:** `https://ddhrgvebw25wfi2b.anvil.app/I6RUPSWSD4AFO3BBKAXT63P7`
+* **JupyterLab:** `http://localhost:8888`
 
-This command will:
-* Build the Docker image from the **Dockerfile**, installing all necessary dependencies.
-* Start the conatiner and run the **main.py** script, which connects to the Anvil service.
+To stop the application, simply press `Ctrl+C` in the terminal window that is running the backend server.
 
-You will see log output in your terminal indicating that the models are loading and the conection to the Anvil server is established. The backend is now running and can be accessed via the live Anvil application link provided above. To stop the application, press **Ctrl+C** in the terminal.
-
+---
 ## Project Structure
 
-**/app**: Contains the backend Python script (main.py) that runs in the Docker container.
-
-**/data**: Contains the raw shipping-data.csv file.
-
-**/models**: Contains the serialized .joblib files for the trained models and encoders.
-
-**/notebooks**: Contains the Jupyter Notebook for EDA and model development.
-
-**Dockerfile**: Instructions for building the application's Docker image.
-
-**docker-compose.yml**: Simplifies running the Docker container.
-
-**environment.yml**: Defines the reproducible Conda environment.
-
-**.env.example**: A template for the required environment variables.
+* **/app**: Contains the backend Python script (`main.py`) that connects to Anvil.
+* **/data**: Contains the raw `shipping-data.csv` file.
+* **/models**: Contains the serialized `.joblib` files for the trained models.
+* **/notebooks**: Contains the Jupyter Notebook for EDA and model development.
+* **/output**: A git-ignored directory designated for any generated files, such as prediction logs or reports.
+* **Dockerfile**: Defines the container for the backend and JupyterLab servers.
+* **docker-compose.yml**: Manages the Docker container setup.
+* **environment.yml**: Defines the reproducible Conda environment for local analysis.
+* **start.sh**: The script that runs inside the Docker container to start the services.
+* **run.bat** & **monitor.ps1**: The setup scripts for a one-click experience.

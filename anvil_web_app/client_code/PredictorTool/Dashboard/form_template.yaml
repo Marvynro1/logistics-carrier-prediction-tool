@@ -1,0 +1,118 @@
+components:
+- components:
+  - components:
+    - components:
+      - layout_properties: {grid_position: 'PRMUIA,YTOSUL'}
+        name: label_1
+        properties: {align: center, role: title, text: Global Shipments by Destination}
+        type: Label
+      - data_bindings: []
+        layout_properties: {full_width_row: false, grid_position: 'FIGHVM,BYZYWF'}
+        name: map_plot
+        properties:
+          height: 31vh
+          interactive: true
+          margin: ['0', null, '0', null]
+        type: Plot
+      event_bindings: {}
+      layout_properties: {full_width_row: true, grid_position: 'QKYIRL,HDQLAD'}
+      name: outlined_card_1
+      properties:
+        background: '#111111'
+        role: outlined-card
+        spacing:
+          margin: [null, '0', null, null]
+          padding: [null, '15', null, '15']
+        spacing_above: small
+        spacing_below: small
+      type: ColumnPanel
+    - components:
+      - layout_properties: {grid_position: 'JLHTUY,VZUZNS'}
+        name: label_2
+        properties: {align: center, role: title, text: Shipment Volume by Carrier}
+        type: Label
+      - data_bindings: []
+        layout_properties: {full_width_row: false, grid_position: 'YMKJFY,XHFOXL'}
+        name: carrier_plot
+        properties:
+          height: 31vh
+          margin: ['0', null, '0', null]
+        type: Plot
+      layout_properties: {full_width_row: true, grid_position: 'QKYIRL,NWTKHI'}
+      name: outlined_card_2
+      properties:
+        background: '#111111'
+        col_spacing: medium
+        role: outlined-card
+        spacing:
+          margin: ['4', null, '4', '0']
+        spacing_above: small
+        spacing_below: small
+      type: ColumnPanel
+    - components:
+      - layout_properties: {grid_position: 'GYSHMW,UHJSNV'}
+        name: label_3
+        properties: {align: center, role: title, text: Shipment Weight vs. Volume by Carrier}
+        type: Label
+      - data_bindings: []
+        layout_properties: {full_width_row: false, grid_position: 'RUYXNV,TTVHLL'}
+        name: scatter_plot
+        properties:
+          height: 31vh
+          margin: ['0', null, '0', null]
+        type: Plot
+      layout_properties: {full_width_row: true, grid_position: 'IBCCAP,WOFTMR'}
+      name: outlined_card_3
+      properties:
+        background: '#111111'
+        border: ''
+        col_spacing: medium
+        role: outlined-card
+        spacing:
+          margin: ['4', null, '4', null]
+        spacing_above: medium
+        spacing_below: medium
+      type: ColumnPanel
+    layout_properties: {full_width_row: true, grid_position: 'OSNVYL,DOYEOY'}
+    name: column_panel_2
+    properties: {col_spacing: small}
+    type: ColumnPanel
+  data_bindings: []
+  layout_properties: {slot: default}
+  name: content_panel
+  properties:
+    col_spacing: medium
+    spacing:
+      margin: ['0', '0', '0', null]
+      padding: ['8', '8', '0', '8']
+    spacing_above: none
+    spacing_below: none
+  type: ColumnPanel
+- layout_properties: {slot: nav-right}
+  name: navbar_links
+  properties: {}
+  type: FlowPanel
+- components:
+  - event_bindings: {click: carrier_predictor_link_click}
+    layout_properties: {grid_position: 'BFJHEL,SWFBJR'}
+    name: carrier_predictor_link
+    properties: {icon: 'fa:magic', text: Carrier Predictor Tool}
+    type: Link
+  - layout_properties: {grid_position: 'FHFJRX,TPRMZN'}
+    name: dashboard_link
+    properties: {icon: 'fa:bar-chart', text: Dashboard}
+    type: Link
+  event_bindings: {}
+  layout_properties: {slot: left-nav}
+  name: column_panel_1
+  properties: {}
+  type: ColumnPanel
+- layout_properties: {slot: title}
+  name: title_label
+  properties: {bold: true, font: Helvetica, role: title, text: VALV INDUSTRIES}
+  type: Label
+container:
+  event_bindings: {show: form_show}
+  properties: {html: '@theme:standard-page.html'}
+  type: HtmlTemplate
+is_package: true

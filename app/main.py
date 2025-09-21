@@ -1,5 +1,4 @@
 import anvil.server
-import anvil.media
 import pandas as pd
 import numpy as np
 import joblib
@@ -8,6 +7,7 @@ import io
 import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.express as px
+import pycountry
 
 # --- Connect to Anvil ---
 uplink_key = os.environ.get('ANVIL_UPLINK_KEY')
@@ -22,7 +22,7 @@ carrier_label_encoder = joblib.load('./models/carrier_label_encoder.joblib')
 full_dataset = pd.read_csv('./data/shipping-data.csv')
 
 # --- Perform Feature Engineering on the Full Dataset ---
-# This creates the columns needed for the dashboard plots.
+# Create the columns needed for the dashboard plots.
 full_dataset['Volume_cubic_in'] = full_dataset['Length_in'] * full_dataset['Width_in'] * full_dataset['Height_in']
 full_dataset['Density_lbs_per_cubic_in'] = full_dataset['Weight_lbs'] / (full_dataset['Volume_cubic_in'] + 1e-6)
 
@@ -62,10 +62,21 @@ def get_dashboard_plots():
 
     # --- Chart 2: Global Shipments by Country (Map) ---
     country_counts = full_dataset['Destination_Country'].value_counts().reset_index()
+
     country_counts.columns = ['Country', 'Shipments']
+
+    # Helper function to convert country names to ISO-3 codes
+    def get_iso_alpha(country_name):
+        if country_name == 'USA': return 'USA' # Handle special cases
+        try:
+            return pycountry.countries.get(name=country_name).alpha_3
+        except AttributeError:
+            return None # Return None for names not found
+
+    country_counts['iso_alpha'] = country_counts['Country'].apply(get_iso_alpha)
     fig2 = px.choropleth(country_counts, 
-                         locations='Country', 
-                         locationmode='country names',
+                         locations='iso_alpha', 
+                         locationmode='ISO-3',
                          color='Shipments',
                          hover_name='Country',
                          color_continuous_scale='tealgrn'
@@ -98,7 +109,7 @@ def get_dashboard_plots():
     
     return {'plot1': fig1, 'plot2': fig2, 'plot3': fig3}
 
-# --- Prediction function is now simpler ---
+# --- Prediction function ---
 @anvil.server.callable
 def predict_shipment(client_name, destination_country, length, width, height, weight):
     """Accepts user inputs and returns predictions and confidence scores."""
